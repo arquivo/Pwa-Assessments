@@ -1,0 +1,16 @@
+pt/arquivo/assessments/FleissKappa.class
+pt/arquivo/assessments/MergeRuns.class
+pt/arquivo/assessments/QrelsGenerator.class
+pt/arquivo/assessments/Query.class
+pt/arquivo/assessments/SqlOperations.class
+pt/arquivo/assessments/DatasetTemporalMultiplier.class
+pt/arquivo/assessments/Assessment.class
+pt/arquivo/assessments/FeaturesGenerator.class
+pt/arquivo/assessments/Qrels.class
+pt/arquivo/assessments/Normalize.class
+pt/arquivo/assessments/DatasetTemporalSplitter.class
+pt/arquivo/assessments/DuplicatesPerQuery.class
+pt/arquivo/assessments/QueryResultsScrapper.class
+pt/arquivo/assessments/AutomaticAssessments.class
+pt/arquivo/assessments/QueryDoc.class
+pt/arquivo/assessments/DatasetTemporalBinaryFeatures.class

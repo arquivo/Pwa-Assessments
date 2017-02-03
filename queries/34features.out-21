@@ -1,0 +1,26 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=34&sboosts=1
+1 ADDED: http://pt.wikipedia.org/wiki/Maria_II_de_Portugal http://pt.wikipedia.org/wiki/Maria_II_de_Portugal
+TREC_FORMAT: 21 Q0 id91752index4 1 16.376768 pwa_34_1
+2 ADDED: http://teatromunicipaldaguarda.blogspot.com/ http://teatromunicipaldaguarda.blogspot.com
+TREC_FORMAT: 21 Q0 id42741index4 2 13.360252 pwa_34_1
+3 ADDED: http://dona-redonda.blogspot.com/2007_12_01_archive.html http://dona-redonda.blogspot.com/2007_12_01_archive.html
+TREC_FORMAT: 21 Q0 id184787index4 3 12.439143 pwa_34_1
+4 ADDED: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id13863index0 4 12.434023 pwa_34_1
+5 ADDED: http://dona-redonda.blogspot.com/2007_07_01_archive.html http://dona-redonda.blogspot.com/2007_07_01_archive.html
+TREC_FORMAT: 21 Q0 id2795441index4 5 12.430133 pwa_34_1
+6 ADDED: http://dona-redonda.blogspot.com/2008_02_01_archive.html http://dona-redonda.blogspot.com/2008_02_01_archive.html
+TREC_FORMAT: 21 Q0 id1473691index4 6 12.416342 pwa_34_1
+7 ADDED: http://marionetasportugal.blogspot.com/ http://marionetasportugal.blogspot.com
+TREC_FORMAT: 21 Q0 id25042index4 7 11.723 pwa_34_1
+8 ADDED: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml
+TREC_FORMAT: 21 Q0 id16702680index3 8 11.67192 pwa_34_1
+9 ADDED: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml
+TREC_FORMAT: 21 Q0 id32412815index3 9 11.594301 pwa_34_1
+10 ADDED: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml
+TREC_FORMAT: 21 Q0 id23844675index3 10 11.517574 pwa_34_1
+10 pairs of query-document inserted.
+0 pairs of query-document excluded.

@@ -1,0 +1,61 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://maria.sapo.pt/robots.txt http://maria.sapo.pt/robots.txt
+TREC_FORMAT: 21 Q0 id7053201index0 1 0.5295119 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+TREC_FORMAT: 21 Q0 id3841686index0 2 0.51797414 pwa_35+62_0.75+0.25
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+3 FILTERED FROM other model: http://www.portugal-linha.pt/acd6.html http://portugal-linha.pt/acd6.html
+TREC_FORMAT: 21 Q0 id22002652index0 3 0.51724446 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.clix.pt/ http://clix.pt
+TREC_FORMAT: 21 Q0 id198394index0 4 0.5154782 pwa_35+62_0.75+0.25
+FILTERED: http://www.clix.pt/ http://clix.pt
+5 ADDED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+TREC_FORMAT: 21 Q0 id913064index3 5 0.5151777 pwa_35+62_0.75+0.25
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+6 FILTERED FROM other model: http://ultimahora.publico.pt/ http://ultimahora.publico.pt
+TREC_FORMAT: 21 Q0 id1673573index0 6 0.5150831 pwa_35+62_0.75+0.25
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+7 ADDED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+TREC_FORMAT: 21 Q0 id274193index5 7 0.51492435 pwa_35+62_0.75+0.25
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+8 ADDED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+TREC_FORMAT: 21 Q0 id7980406index3 8 0.5136049 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+9 ADDED: http://www.oeste.online.pt/ http://oeste.online.pt
+TREC_FORMAT: 21 Q0 id507004index0 9 0.51341283 pwa_35+62_0.75+0.25
+10 ADDED: http://www.publico.pt/tv/ http://publico.pt/tv
+TREC_FORMAT: 21 Q0 id2734index0 10 0.51272553 pwa_35+62_0.75+0.25
+5 pairs of query-document inserted.
+0 pairs of query-document excluded.

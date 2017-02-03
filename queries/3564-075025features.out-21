@@ -1,0 +1,36 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=35+64&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.publico.clix.pt/index.asp http://publico.clix.pt
+TREC_FORMAT: 21 Q0 id553132index0 1 0.48109144 pwa_35+64_0.75+0.25
+FILTERED: http://www.publico.clix.pt/index.asp http://publico.clix.pt
+2 FILTERED FROM other model: http://www.clix.pt/ http://clix.pt
+TREC_FORMAT: 21 Q0 id198394index0 2 0.4791494 pwa_35+64_0.75+0.25
+FILTERED: http://www.clix.pt/ http://clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+3 FILTERED FROM other model: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id13863index0 3 0.46436554 pwa_35+64_0.75+0.25
+4 FILTERED FROM other model: http://www.reporter.online.pt/ http://reporter.online.pt
+TREC_FORMAT: 21 Q0 id1977632index0 4 0.46436256 pwa_35+64_0.75+0.25
+5 FILTERED FROM other model: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id822824index0 5 0.46315515 pwa_35+64_0.75+0.25
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+6 FILTERED FROM other model: http://www.publico.clix.pt/consultorio.asp http://publico.clix.pt/consultorio.asp
+TREC_FORMAT: 21 Q0 id10024index2 6 0.45925832 pwa_35+64_0.75+0.25
+FILTERED: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+7 FILTERED FROM other model: http://www.plateia.iol.pt/ http://plateia.iol.pt
+TREC_FORMAT: 21 Q0 id391585index0 7 0.45852435 pwa_35+64_0.75+0.25
+8 FILTERED FROM other model: http://barnabe.weblog.com.pt/ http://barnabe.weblog.com.pt
+TREC_FORMAT: 21 Q0 id290934index0 8 0.4583063 pwa_35+64_0.75+0.25
+9 FILTERED FROM other model: http://ultimahora.publico.pt/ http://ultimahora.publico.pt
+TREC_FORMAT: 21 Q0 id1673573index0 9 0.45483774 pwa_35+64_0.75+0.25
+10 ADDED: http://tv.publico.clix.pt/ http://tv.publico.clix.pt
+TREC_FORMAT: 21 Q0 id30605892index0 10 0.4531246 pwa_35+64_0.75+0.25
+1 pairs of query-document inserted.
+0 pairs of query-document excluded.

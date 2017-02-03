@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.message {
+	margin:10px 20px 10px 20px;
+	padding:10px 10px 10px 30px;
+	color:#282828;
+	font-size:15px;
+    line-height: 16px;
+}
+
+.message h6 {
+	font-size:17px;
+	margin:0 0 5px -22px;
+	padding:0 0 0 22px; 
+}
+.message p {
+	margin:0 0 5px 0;
+	padding:0;
+}
+
+.success {
+		color:black;
+		border:2px solid #66CC33;
+		background-color: #FFFFDD;
+}
+.success h6 {no-repeat center left;}

@@ -1,0 +1,58 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: lpcpcc
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=lpcpcc&sfunctions=34&sboosts=1&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2003
+1 ADDED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+TREC_FORMAT: 47 Q0 id503636index0 1 14.486414 pwa_34_1
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+2 ADDED: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+TREC_FORMAT: 47 Q0 id74343844index0 2 14.486414 pwa_34_1
+FILTERED: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+FILTERED: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+3 ADDED: http://pesquisa.sapo.pt/search?t=0&q=cavalos http://pesquisa.sapo.pt/search?t=0&q=cavalos
+TREC_FORMAT: 47 Q0 id2421452index0 3 0.606539 pwa_34_1
+4 ADDED: http://www.aeiou.pt/red/pesquisa/index.php?p=corrida+de+cavalos http://aeiou.pt/red/pesquisa/index.php?p=corrida+de+cavalos
+TREC_FORMAT: 47 Q0 id4097323index0 4 0.606539 pwa_34_1
+5 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=74&cgiType=10007&state=Cache/cavalosl0rp20&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=74&cgiType=10007&state=Cache/cavalosl0rp20&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id6697491index0 5 0.606539 pwa_34_1
+6 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1045562466&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1045562466&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8591173index0 6 0.606539 pwa_34_1
+7 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045567201&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045567201&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8591174index0 7 0.606539 pwa_34_1
+8 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044356483&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044356483&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8610158index0 8 0.606539 pwa_34_1
+9 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045568298&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045568298&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8610159index0 9 0.606539 pwa_34_1
+10 ADDED: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1044355048&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1044355048&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id24796234index0 10 0.606539 pwa_34_1
+QUERY: rádio douro sul
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=r%C3%A1dio+douro+sul&sfunctions=34&sboosts=1&dateStart=01%2F01%2F1997&dateEnd=31%2F12%2F1997
+1 ADDED: http://www.radiodourosul.pt/ds_qsomo.html http://radiodourosul.pt/ds_qsomo.html
+TREC_FORMAT: 49 Q0 id3399097index5 1 7.3457537 pwa_34_1
+2 ADDED: http://www.alsis.pt/telefonia/rpni.html http://alsis.pt/telefonia/rpni.html
+TREC_FORMAT: 49 Q0 id3422063index5 2 0.52720624 pwa_34_1
+3 ADDED: http://www.ocasiao.pt/htmlads/8055.htm http://ocasiao.pt/htmlads/8055.htm
+TREC_FORMAT: 49 Q0 id737399index5 3 0.4253063 pwa_34_1
+FILTERED: http://www.ocasiao.pt/htmlads/8055.htm http://ocasiao.pt/htmlads/8055.htm
+4 ADDED: http://www.radiodourosul.pt/ds_raud1.html http://radiodourosul.pt/ds_raud1.html
+TREC_FORMAT: 49 Q0 id3399098index5 4 0.38333836 pwa_34_1
+5 ADDED: http://www.cnc.pt/scripts/news http://cnc.pt/scripts/news
+TREC_FORMAT: 49 Q0 id765131index5 5 0.3502143 pwa_34_1
+6 ADDED: http://www.aerlis.pt/empresas/gestifer/edifer/p_edifer.html http://aerlis.pt/empresas/gestifer/edifer/p_edifer.html
+TREC_FORMAT: 49 Q0 id193378index5 6 0.34872612 pwa_34_1
+FILTERED: http://www.aerlis.pt/empresas/gestifer/edifer/p_edifer.html http://aerlis.pt/empresas/gestifer/edifer/p_edifer.html
+7 ADDED: http://www.cidadevirtual.pt/cidade.virtual/dir/med/index.html http://cidadevirtual.pt/cidade.virtual/dir/med
+TREC_FORMAT: 49 Q0 id1790169index5 7 0.29758582 pwa_34_1
+8 ADDED: http://www.cidadevirtual.pt/cidade.virtual/dir/pub/index.html http://cidadevirtual.pt/cidade.virtual/dir/pub
+TREC_FORMAT: 49 Q0 id2853944index5 8 0.29758582 pwa_34_1
+9 ADDED: http://www.sapo.pt/media/jornais/index.html http://sapo.pt/media/jornais
+TREC_FORMAT: 49 Q0 id227403index5 9 0.27106112 pwa_34_1
+10 ADDED: http://sapo.ua.pt/media/jornais/ http://sapo.ua.pt/media/jornais
+TREC_FORMAT: 49 Q0 id234562index5 10 0.27065548 pwa_34_1
+20 pairs of query-document inserted.
+0 pairs of query-document excluded.

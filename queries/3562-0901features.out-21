@@ -1,0 +1,34 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=35+62&sboosts=0.9+0.1
+1 FILTERED FROM other model: http://maria.sapo.pt/robots.txt http://maria.sapo.pt/robots.txt
+TREC_FORMAT: 21 Q0 id7053201index0 1 0.45421174 pwa_35+62_0.9+0.1
+2 FILTERED FROM other model: http://pt.wikipedia.org/wiki/Maria_II_de_Portugal http://pt.wikipedia.org/wiki/Maria_II_de_Portugal
+TREC_FORMAT: 21 Q0 id91752index4 2 0.45379564 pwa_35+62_0.9+0.1
+3 FILTERED FROM other model: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id13863index0 3 0.44775498 pwa_35+62_0.9+0.1
+4 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml
+TREC_FORMAT: 21 Q0 id16702680index3 4 0.44184303 pwa_35+62_0.9+0.1
+FILTERED: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+5 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml
+TREC_FORMAT: 21 Q0 id32412815index3 5 0.4407996 pwa_35+62_0.9+0.1
+6 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml
+TREC_FORMAT: 21 Q0 id23844675index3 6 0.4384898 pwa_35+62_0.9+0.1
+7 ADDED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+TREC_FORMAT: 21 Q0 id3841686index0 7 0.438199 pwa_35+62_0.9+0.1
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+8 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkEpAZAtFCXHVmK.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkEpAZAtFCXHVmK.shtml
+TREC_FORMAT: 21 Q0 id10989603index3 8 0.43811005 pwa_35+62_0.9+0.1
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+9 ADDED: http://www.portugal-linha.pt/acd6.html http://portugal-linha.pt/acd6.html
+TREC_FORMAT: 21 Q0 id22002652index0 9 0.4334101 pwa_35+62_0.9+0.1
+10 ADDED: http://divasecontrabaixos.blogspot.com/ http://divasecontrabaixos.blogspot.com
+TREC_FORMAT: 21 Q0 id9434index3 10 0.4326026 pwa_35+62_0.9+0.1
+3 pairs of query-document inserted.
+0 pairs of query-document excluded.

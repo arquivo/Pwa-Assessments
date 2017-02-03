@@ -1,0 +1,16 @@
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/QueryDoc.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DuplicatesPerQuery.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/FeaturesGenerator.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Query.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DatasetTemporalBinaryFeatures.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/AutomaticAssessments.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/QueryResultsScrapper.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DatasetTemporalMultiplier.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/QrelsGenerator.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/FleissKappa.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Assessment.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DatasetTemporalSplitter.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/MergeRuns.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Qrels.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/SqlOperations.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Normalize.java

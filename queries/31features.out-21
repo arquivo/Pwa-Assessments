@@ -1,0 +1,28 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=31&sboosts=1
+1 ADDED: http://www.fl.ul.pt/biblioteca/biblioteca_digital/publicacoes/th/html/francisco-araujo.html http://fl.ul.pt/biblioteca/biblioteca_digital/publicacoes/th/html/francisco-araujo.html
+TREC_FORMAT: 21 Q0 id24916363index3 1 13.234701 pwa_31_1
+2 ADDED: http://www.madragoafilmes.pt/filme.asp?ID=89 http://madragoafilmes.pt/filme.asp?ID=89
+TREC_FORMAT: 21 Q0 id20775237index3 2 13.174924 pwa_31_1
+3 ADDED: http://www.netparque.pt/NPShowStory.asp?id=240138 http://netparque.pt/NPShowStory.asp?id=240138
+TREC_FORMAT: 21 Q0 id30831465index3 3 13.018223 pwa_31_1
+4 ADDED: http://www.bragacom.pt/ent_res.asp?entID=1056 http://bragacom.pt/ent_res.asp?entID=1056
+TREC_FORMAT: 21 Q0 id12563413index0 4 12.620499 pwa_31_1
+5 ADDED: http://www.lifecooler.iol.pt/Portugal/patrimonio/CasaMuseuACampos http://lifecooler.iol.pt/Portugal/patrimonio/CasaMuseuACampos
+TREC_FORMAT: 21 Q0 id32182471index3 5 12.479666 pwa_31_1
+6 ADDED: http://www.expresso.pt/ed1412/pu-breves.asp?p http://expresso.pt/ed1412/pu-breves.asp?p
+TREC_FORMAT: 21 Q0 id5751312index0 6 12.215785 pwa_31_1
+7 ADDED: http://www.expresso.pt/ed1412/pu-breves.asp http://expresso.pt/ed1412/pu-breves.asp
+TREC_FORMAT: 21 Q0 id21968747index0 7 12.215785 pwa_31_1
+8 ADDED: http://primeirasedicoes.expresso.pt/ed1412/pu-breves.asp?a http://primeirasedicoes.expresso.pt/ed1412/pu-breves.asp?a
+TREC_FORMAT: 21 Q0 id23733047index0 8 12.215785 pwa_31_1
+FILTERED: http://www.expresso.pt/ed1412/pu-breves.asp?p http://expresso.pt/ed1412/pu-breves.asp?p
+FILTERED: http://www.expresso.pt/ed1412/pu-breves.asp http://expresso.pt/ed1412/pu-breves.asp
+9 ADDED: http://www.expresso.pt/ed1412/pu-breves.asp?a http://expresso.pt/ed1412/pu-breves.asp?a
+TREC_FORMAT: 21 Q0 id3218431index5 9 12.201428 pwa_31_1
+10 ADDED: http://tektix.serveftp.com:8080/gfisica/index.jsp?page=news&id=9 http://tektix.serveftp.com:8080/gfisica/index.jsp?page=news&id=9
+TREC_FORMAT: 21 Q0 id14579715index3 10 12.141469 pwa_31_1
+10 pairs of query-document inserted.
+0 pairs of query-document excluded.

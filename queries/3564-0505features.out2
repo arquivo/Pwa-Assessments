@@ -1,0 +1,111 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: lpcpcc
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=lpcpcc&sfunctions=35+64&sboosts=0.5+0.5&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2003
+1 FILTERED FROM other model: http://www.netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS/index.html http://netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS
+TREC_FORMAT: 47 Q0 id105130307index0 1 0.42819208 pwa_35+64_0.5+0.5
+FILTERED: http://www.netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS/index.html http://netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS
+FILTERED: http://www.netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS/index.html http://netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS
+FILTERED: http://www.netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS/index.html http://netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS
+2 FILTERED FROM other model: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+TREC_FORMAT: 47 Q0 id87588063index0 2 0.38054675 pwa_35+64_0.5+0.5
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/outros/ http://sapo.pt/entretenimento/lazer/animais/outros
+3 FILTERED FROM other model: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+TREC_FORMAT: 47 Q0 id294854index0 3 0.36910105 pwa_35+64_0.5+0.5
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+4 FILTERED FROM other model: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+TREC_FORMAT: 47 Q0 id2418037index0 4 0.36910105 pwa_35+64_0.5+0.5
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/cavalos/ http://sapo.pt/entretenimento/lazer/animais/cavalos
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/ http://sapo.pt/entretenimento/lazer/animais/protectoras
+5 FILTERED FROM other model: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+TREC_FORMAT: 47 Q0 id503636index0 5 0.33856118 pwa_35+64_0.5+0.5
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+6 FILTERED FROM other model: http://planeta.clix.pt/.subcats/50-0-0.php3 http://planeta.clix.pt/.subcats/50-0-0.php3
+TREC_FORMAT: 47 Q0 id23323465index0 6 0.33783144 pwa_35+64_0.5+0.5
+FILTERED: http://planeta.clix.pt/.subcats/50-0-0.php3 http://planeta.clix.pt/.subcats/50-0-0.php3
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/index.html http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://planeta.clix.pt/.subcats/50-0-0.php3 http://planeta.clix.pt/.subcats/50-0-0.php3
+FILTERED: http://planeta.clix.pt/.subcats/50-0-0.php3 http://planeta.clix.pt/.subcats/50-0-0.php3
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/index.html http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://planeta.clix.pt/.subcats/50-0-0.php3 http://planeta.clix.pt/.subcats/50-0-0.php3
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/index.html http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/index.html http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.sapo.pt/entretenimento/lazer/animais/protectoras/index.html http://sapo.pt/entretenimento/lazer/animais/protectoras
+FILTERED: http://www.netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS/ http://netindex.pt/links/POLITICA/ASSOCIAC/RECREATIVAS
+7 FILTERED FROM other model: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+TREC_FORMAT: 47 Q0 id9557577index0 7 0.3228925 pwa_35+64_0.5+0.5
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+FILTERED: http://www.netlab.pt/cnema/fna2002/programafna2002.html http://netlab.pt/cnema/fna2002/programafna2002.html
+8 FILTERED FROM other model: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+TREC_FORMAT: 47 Q0 id520787index0 8 0.31385738 pwa_35+64_0.5+0.5
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/historial.html http://planeta.clix.pt/ligacavaloscorrida/historial.html
+9 FILTERED FROM other model: http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3 http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3
+TREC_FORMAT: 47 Q0 id8522488index0 9 0.30384594 pwa_35+64_0.5+0.5
+FILTERED: http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3 http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3
+FILTERED: http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3 http://jcmajor.culturanarede.planetaclix.pt/.subcats/50-0-0.php3
+10 ADDED: http://idtv.sapo.pt/entretenimento/lazer/animais/protectoras/ http://idtv.sapo.pt/entretenimento/lazer/animais/protectoras
+TREC_FORMAT: 47 Q0 id24196479index0 10 0.30384594 pwa_35+64_0.5+0.5
+QUERY: rádio douro sul
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=r%C3%A1dio+douro+sul&sfunctions=35+64&sboosts=0.5+0.5&dateStart=01%2F01%2F1997&dateEnd=31%2F12%2F1997
+1 FILTERED FROM other model: http://www.sapo.pt/media/jornais/ http://sapo.pt/media/jornais
+TREC_FORMAT: 49 Q0 id21069index5 1 0.5252718 pwa_35+64_0.5+0.5
+FILTERED: http://www.sapo.pt/media/jornais/index.html http://sapo.pt/media/jornais
+2 FILTERED FROM other model: http://www.jnoticias.pt/email/emails_M.htm http://jnoticias.pt/email/emails_M.htm
+TREC_FORMAT: 49 Q0 id156371index5 2 0.3898486 pwa_35+64_0.5+0.5
+FILTERED: http://www.jnoticias.pt/email/emails_M.htm http://jnoticias.pt/email/emails_M.htm
+3 FILTERED FROM other model: http://www.jnoticias.pt/foruns/forum3.htm http://jnoticias.pt/foruns/forum3.htm
+TREC_FORMAT: 49 Q0 id1252181index5 3 0.386646 pwa_35+64_0.5+0.5
+4 FILTERED FROM other model: http://voz-portucalense.pt/14novembro/informa.htm http://voz-portucalense.pt/14novembro/informa.htm
+TREC_FORMAT: 49 Q0 id741873index5 4 0.383556 pwa_35+64_0.5+0.5
+FILTERED: http://voz-portucalense.pt/14novembro/informa.htm http://voz-portucalense.pt/14novembro/informa.htm
+5 FILTERED FROM other model: http://voz-portucalense.pt/30julho/informa.htm http://voz-portucalense.pt/30julho/informa.htm
+TREC_FORMAT: 49 Q0 id2868066index5 5 0.3802215 pwa_35+64_0.5+0.5
+6 FILTERED FROM other model: http://voz-portucalense.pt/1janeiro/informa.htm http://voz-portucalense.pt/1janeiro/informa.htm
+TREC_FORMAT: 49 Q0 id209648index5 6 0.38003418 pwa_35+64_0.5+0.5
+FILTERED: http://voz-portucalense.pt/1janeiro/informa.htm http://voz-portucalense.pt/1janeiro/informa.htm
+7 FILTERED FROM other model: http://voz-portucalense.pt/12setembro/informa.htm http://voz-portucalense.pt/12setembro/informa.htm
+TREC_FORMAT: 49 Q0 id3400226index5 7 0.3766132 pwa_35+64_0.5+0.5
+8 FILTERED FROM other model: http://voz-portucalense.pt/24outubro/informa.htm http://voz-portucalense.pt/24outubro/informa.htm
+TREC_FORMAT: 49 Q0 id741903index5 8 0.37649614 pwa_35+64_0.5+0.5
+FILTERED: http://voz-portucalense.pt/24outubro/informa.htm http://voz-portucalense.pt/24outubro/informa.htm
+9 FILTERED FROM other model: http://voz-portucalense.pt/5fevereiro/informa.htm http://voz-portucalense.pt/5fevereiro/informa.htm
+TREC_FORMAT: 49 Q0 id230852index5 9 0.37648445 pwa_35+64_0.5+0.5
+FILTERED: http://voz-portucalense.pt/5fevereiro/informa.htm http://voz-portucalense.pt/5fevereiro/informa.htm
+10 FILTERED FROM other model: http://voz-portucalense.pt/3outubro/informa.htm http://voz-portucalense.pt/3outubro/informa.htm
+TREC_FORMAT: 49 Q0 id2868070index5 10 0.37272078 pwa_35+64_0.5+0.5
+1 pairs of query-document inserted.
+0 pairs of query-document excluded.

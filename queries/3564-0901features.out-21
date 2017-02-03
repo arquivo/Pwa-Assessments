@@ -1,0 +1,36 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=35+64&sboosts=0.9+0.1
+1 FILTERED FROM other model: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id13863index0 1 0.43214846 pwa_35+64_0.9+0.1
+FILTERED: http://atuaamiga.blogs.sapo.pt/ http://atuaamiga.blogs.sapo.pt
+2 ADDED: http://www.publico.clix.pt/index.asp http://publico.clix.pt
+TREC_FORMAT: 21 Q0 id553132index0 2 0.4137423 pwa_35+64_0.9+0.1
+FILTERED: http://www.publico.clix.pt/index.asp http://publico.clix.pt
+3 ADDED: http://www.clix.pt/ http://clix.pt
+TREC_FORMAT: 21 Q0 id198394index0 3 0.41323972 pwa_35+64_0.9+0.1
+FILTERED: http://www.clix.pt/ http://clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+4 FILTERED FROM other model: http://maria.sapo.pt/robots.txt http://maria.sapo.pt/robots.txt
+TREC_FORMAT: 21 Q0 id7053201index0 4 0.40886718 pwa_35+64_0.9+0.1
+5 ADDED: http://www.reporter.online.pt/ http://reporter.online.pt
+TREC_FORMAT: 21 Q0 id1977632index0 5 0.40728083 pwa_35+64_0.9+0.1
+6 ADDED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+TREC_FORMAT: 21 Q0 id822824index0 6 0.40621483 pwa_35+64_0.9+0.1
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+FILTERED: http://poemasdeamoredor.blogs.sapo.pt/ http://poemasdeamoredor.blogs.sapo.pt
+7 ADDED: http://www.plateia.iol.pt/ http://plateia.iol.pt
+TREC_FORMAT: 21 Q0 id391585index0 7 0.40493754 pwa_35+64_0.9+0.1
+8 ADDED: http://www.publico.clix.pt/consultorio.asp http://publico.clix.pt/consultorio.asp
+TREC_FORMAT: 21 Q0 id10024index2 8 0.40492743 pwa_35+64_0.9+0.1
+9 ADDED: http://barnabe.weblog.com.pt/ http://barnabe.weblog.com.pt
+TREC_FORMAT: 21 Q0 id290934index0 9 0.4042267 pwa_35+64_0.9+0.1
+10 ADDED: http://ultimahora.publico.pt/ http://ultimahora.publico.pt
+TREC_FORMAT: 21 Q0 id1673573index0 10 0.40338045 pwa_35+64_0.9+0.1
+8 pairs of query-document inserted.
+0 pairs of query-document excluded.

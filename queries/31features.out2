@@ -1,0 +1,60 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: lpcpcc
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=lpcpcc&sfunctions=31&sboosts=1&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2003
+1 FILTERED FROM other model: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+TREC_FORMAT: 47 Q0 id503636index0 1 9.835217 pwa_31_1
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+2 FILTERED FROM other model: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+TREC_FORMAT: 47 Q0 id74343844index0 2 9.835217 pwa_31_1
+FILTERED: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+FILTERED: http://ligacavaloscorrida.planetaclix.pt/apresentacao.html http://ligacavaloscorrida.planetaclix.pt/apresentacao.html
+FILTERED: http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html http://planeta.clix.pt/ligacavaloscorrida/apresentacao.html
+3 FILTERED FROM other model: http://www.aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_e_Proprietarios_de_Cavalos_de_Corrida.html http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_e_Proprietarios_de_Cavalos_de_Corrida.html
+TREC_FORMAT: 47 Q0 id194466index0 3 8.971127 pwa_31_1
+FILTERED: http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_e_Proprietarios_de_Cavalos_de_Corrida.html http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_e_Proprietarios_de_Cavalos_de_Corrida.html
+4 FILTERED FROM other model: http://www.aeiou.pt/red/pesquisa/index.php?p=corrida+de+cavalos http://aeiou.pt/red/pesquisa/index.php?p=corrida+de+cavalos
+TREC_FORMAT: 47 Q0 id4097323index0 4 8.860303 pwa_31_1
+5 FILTERED FROM other model: http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_Proprietarios_de_Cavalos_de_Corrida.html http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_Proprietarios_de_Cavalos_de_Corrida.html
+TREC_FORMAT: 47 Q0 id57605042index0 5 8.816717 pwa_31_1
+FILTERED: http://www.aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_Proprietarios_de_Cavalos_de_Corrida.html http://aeiou.pt/registos/l/Liga_Portuguesa_de_Criadores_Proprietarios_de_Cavalos_de_Corrida.html
+6 FILTERED FROM other model: http://www.aeiou.pt/pesquisa/index.php?p=cavalos http://aeiou.pt/pesquisa/index.php?p=cavalos
+TREC_FORMAT: 47 Q0 id56555147index0 6 8.498463 pwa_31_1
+7 FILTERED FROM other model: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044357158&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044357158&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id73474888index0 7 8.375541 pwa_31_1
+8 FILTERED FROM other model: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1045562466&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D10/cavalos1045562466&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8591173index0 8 8.359769 pwa_31_1
+9 FILTERED FROM other model: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045567201&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1045567201&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8591174index0 9 8.359769 pwa_31_1
+10 FILTERED FROM other model: http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044356483&question=cavalos&look=0&recordsInPage=20 http://pesquisa.clix.pt/search.asp?in=Nacional&position=86&cgiType=10007&state=D11/cavalos1044356483&question=cavalos&look=0&recordsInPage=20
+TREC_FORMAT: 47 Q0 id8610158index0 10 8.359769 pwa_31_1
+QUERY: rádio douro sul
+URL:http://p15.arquivo.pt:8080/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=r%C3%A1dio+douro+sul&sfunctions=31&sboosts=1&dateStart=01%2F01%2F1997&dateEnd=31%2F12%2F1997
+1 FILTERED FROM other model: http://www.radiodourosul.pt/ds_qsomo.html http://radiodourosul.pt/ds_qsomo.html
+TREC_FORMAT: 49 Q0 id3399097index5 1 10.5345745 pwa_31_1
+2 FILTERED FROM other model: http://www.alsis.pt/telefonia/rpni.html http://alsis.pt/telefonia/rpni.html
+TREC_FORMAT: 49 Q0 id3422063index5 2 9.445694 pwa_31_1
+3 FILTERED FROM other model: http://www.radiodourosul.pt/ds_raud1.html http://radiodourosul.pt/ds_raud1.html
+TREC_FORMAT: 49 Q0 id3399098index5 3 8.893557 pwa_31_1
+4 FILTERED FROM other model: http://www.cidadevirtual.pt/cidade.virtual/dir/med/index.html http://cidadevirtual.pt/cidade.virtual/dir/med
+TREC_FORMAT: 49 Q0 id1790169index5 4 7.807497 pwa_31_1
+5 FILTERED FROM other model: http://www.cidadevirtual.pt/cidade.virtual/dir/pub/index.html http://cidadevirtual.pt/cidade.virtual/dir/pub
+TREC_FORMAT: 49 Q0 id2853944index5 5 6.910461 pwa_31_1
+6 FILTERED FROM other model: http://www.ocasiao.pt/htmlads/8055.htm http://ocasiao.pt/htmlads/8055.htm
+TREC_FORMAT: 49 Q0 id737399index5 6 6.0082884 pwa_31_1
+FILTERED: http://www.ocasiao.pt/htmlads/8055.htm http://ocasiao.pt/htmlads/8055.htm
+7 FILTERED FROM other model: http://www.cnc.pt/scripts/news http://cnc.pt/scripts/news
+TREC_FORMAT: 49 Q0 id765131index5 7 4.568967 pwa_31_1
+8 FILTERED FROM other model: http://www.aerlis.pt/empresas/gestifer/edifer/p_edifer.html http://aerlis.pt/empresas/gestifer/edifer/p_edifer.html
+TREC_FORMAT: 49 Q0 id193378index5 8 4.2888346 pwa_31_1
+FILTERED: http://www.aerlis.pt/empresas/gestifer/edifer/p_edifer.html http://aerlis.pt/empresas/gestifer/edifer/p_edifer.html
+9 FILTERED FROM other model: http://www.sapo.pt/media/jornais/index.html http://sapo.pt/media/jornais
+TREC_FORMAT: 49 Q0 id227403index5 9 3.2992435 pwa_31_1
+10 FILTERED FROM other model: http://sapo.ua.pt/media/jornais/ http://sapo.ua.pt/media/jornais
+TREC_FORMAT: 49 Q0 id234562index5 10 2.825171 pwa_31_1
+0 pairs of query-document inserted.
+0 pairs of query-document excluded.

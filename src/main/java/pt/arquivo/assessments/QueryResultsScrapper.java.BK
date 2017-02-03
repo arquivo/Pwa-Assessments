@@ -1,0 +1,274 @@
+package pt.arquivo.assessments;
+
+import org.jsoup.Jsoup;
+import org.jsoup.helper.Validate;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.io.*;
+import java.net.URLEncoder;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.sql.SQLException;
+import java.sql.Timestamp;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
+
+import org.archive.access.nutch.jobs.EntryPageExpansion;
+
+
+/**
+ * Query PWA and parses results for assessment
+ * @author Miguel Costa
+ */
+public class QueryResultsScrapper {
+	
+	private static SimpleDateFormat formatterTimestamp = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss"); // timestamp displayed in searchTests.jsp
+	private static SimpleDateFormat formatterDateRestriction = new SimpleDateFormat("dd/MM/yyyy"); // part of the date range restriction
+	
+	private final static int TIMEOUT=60 * 1000;
+	private final static int HITS_PER_PAGE=100; // number of hits returned
+	private final static int TOP_K_POOLED=10; // number of hits pooled
+	private final static int HITS_PER_DUP=0; // maximum hits per site (0 means no restriction)
+	private final static int QUERY_MATCHES=-2; // number of query matches (-2 is the default, which is 10K) 	
+	
+	
+	//private final static String URL_QUERY="http://experimental.arquivo.pt/nutchwax/search.jsp?hitsPerPage=10&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2010&query=";
+	//private final static String DOMAIN="t3.tomba.fccn.pt:8080";	
+	private final static String DOMAIN="p15.arquivo.pt";
+	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&dateStart=01%2F01%2F1994&dateEnd=31%2F12%2F2010&query=";										
+	private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
+	private final static int NUM_FEATURES=66;
+	private SqlOperations op = null;
+	private int nInserted=0;
+	private int nExcluded=0;
+	
+				
+	/**
+	 * Main
+	 * @param args
+	 * @throws IOException
+	 */
+	public static void main(String[] args) throws IOException {
+		Validate.isTrue(args.length==7, "usage: <queries file> <queriesType (0-nav, 1-inf)> <ranking features (e.g. 0+1+2)> <features boosts (e.g. 1+1+1)> <database> <username> <password>");		
+	
+		QueryResultsScrapper scrapper=new QueryResultsScrapper();
+		try {
+			scrapper.processResults(args[0],Integer.parseInt(args[1]),args[2],args[3],args[4],args[5],args[6]);
+		}
+		catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		catch (SQLException e) {
+			e.printStackTrace();
+		}
+		catch (ParseException e) {
+			e.printStackTrace();
+		}
+	}
+
+	/**
+	 * Extract data from results
+	 * @param fileQueries query file
+	 * @param features feature indexes
+	 * @param boosts feature boosts
+	 * @param database database string
+	 * @param username database username 
+	 * @param password database password
+	 * @throws IOException
+	 */
+	private void processResults(String fileQueries, int queriesType, String features, String boosts, String database, String username, String password) throws IOException, ClassNotFoundException, SQLException, ParseException {		
+		
+		float nutchMax=0, nutchMin=Float.MAX_VALUE;
+		float luceneMax=0, luceneMin=Float.MAX_VALUE;
+		float boostolderMax=0, boostolderMin=Float.MAX_VALUE;
+		
+		// functions and boosts to call explain.jsp
+		String allFunctions=new String();
+		String allBoosts=new String();
+		for (int i=0;i<NUM_FEATURES;i++) {
+			if (i==0) {
+				allFunctions+=i;
+				allBoosts+="1";
+			}
+			else {
+				allFunctions+="+"+i;
+				allBoosts+="+"+"1";
+			}
+		}
+		
+		// connect database
+		op = new SqlOperations();
+		op.connect(database,username,password);	
+		
+		// read file with queries
+		BufferedReader br = new BufferedReader(new FileReader(new File(fileQueries)));	    
+		String line;		
+		int c=0;		
+		while ( ( line = br.readLine() ) != null ) {			
+			//String query = new String(line.getBytes(),"UTF-8");
+			//String encodedQuery = convertArchiveQuery(line);			
+			//String url = URL_QUERY+encodedQuery+"&sfunctions="+features+"&sboosts="+boosts;
+						
+			String parts[] = line.split(" ");
+			String dateStart = null;		
+			String dateEnd = null;
+			String encodedDateStart = null;		
+			String encodedDateEnd = null;
+			Set<String> duplicatesByRel = new HashSet<String>();
+			
+			String query = parts[0];
+			for (int i=1;i<parts.length && encodedDateStart==null;i++) {
+				try { // if not exception then it is the start date
+					formatterDateRestriction.parse(parts[i]);
+					dateStart=parts[i];
+					encodedDateStart = convertArchiveQuery(dateStart);
+					dateEnd=parts[i+1];					
+					encodedDateEnd = convertArchiveQuery(dateEnd);
+				}
+				catch(ParseException e) { // add all query terms
+					query+=" "+parts[i]; 
+				}										
+			}			
+			String encodedQuery = convertArchiveQuery(query);			
+			String url = URL_QUERY+encodedQuery+"&sfunctions="+features+"&sboosts="+boosts;
+			if (encodedDateStart!=null) {
+				url+="&dateStart="+encodedDateStart+"&dateEnd="+encodedDateEnd;
+			}			
+			if (dateStart!=null) {
+				query+=" "+dateStart+" "+dateEnd;
+			}			
+			System.out.println("URL:"+url); //TODO remove
+				
+			Document doc = Jsoup.connect(url).timeout(TIMEOUT).get();			
+			Elements li = doc.select("li");
+			int topk=0;
+			for (int i=0; i<li.size() && topk<TOP_K_POOLED; i++) {				
+				Element l=li.get(i);				
+												
+			//for (Element l : li) {
+			//for (Element l=li.elements) {
+				Element archivelink = l.select("a[href]").first();					
+				Element date = l.select("span[class=date]").first();
+				Element link = l.select("span[class=url]").first();
+				Element explainlink = l.select("a[href]").get(2);								
+									
+				String explainlinkHref=explainlink.attr("abs:href");	
+				int index=explainlinkHref.indexOf("&sfunctions");										
+				explainlinkHref=explainlinkHref.substring(0,index)+"&sfunctions="+allFunctions+"&sboosts="+allBoosts;
+				//explainlinkHref=explainlinkHref.substring(0,index)+"&sfunctions="+features+"&sboosts="+boosts; TODO remove												
+				
+				Document docExplain = Jsoup.connect(explainlinkHref).get(); // connect to explain.jsp										
+				Element lexplain = docExplain.select("span[class=features]").first();										
+				String lExplainFeatures = lexplain.text(); // extract features										
+					
+					
+				String docUrl=link.text();
+				String docUrlRadical=EntryPageExpansion.getRadical(docUrl);
+				boolean bstore=true;
+				if (duplicatesByRel.contains(docUrlRadical) ) {  // filter duplicates by relevance
+					if (queriesType==0) { // navigational
+						bstore=false;
+					}
+					if (queriesType==1) { // informational						
+						// if they are near-duplicates TODO {						
+							//bstore=false;
+					    // }
+					}
+				}
+				
+				
+				
+				if (bstore) {							
+					//System.out.println(query+","+queriesType+","+archivelink.attr("abs:href")+","+date.text()+","+docUrl+","+lExplainFeatures);												
+					
+					System.out.println(docUrl+" "+docUrlRadical);
+					
+					//storeData(query,queriesType,link.text(),date.text(),archivelink.attr("abs:href"),lExplainFeatures);
+					
+					duplicatesByRel.add(docUrlRadical);
+					topk++;
+				}
+				else {
+					System.out.println("FILTERED: "+docUrl+" "+docUrlRadical);
+				}
+								
+				
+				/*
+					int i30=lExplainFeatures.indexOf("31:");					
+					int iaux=lExplainFeatures.indexOf(" ",i30);
+					if (iaux<0) {
+						iaux=lExplainFeatures.length();
+					}
+					System.out.println((c++)+" "+lExplainFeatures.substring(i30+3,iaux));
+											
+				}				
+				break;
+				*/											
+			}
+			
+			if (topk<TOP_K_POOLED) {
+				System.err.println("Less than "+TOP_K_POOLED+" versions found for query "+query+". Only "+topk+" were found.");
+				System.exit(1);
+			}
+		}
+		
+		// close connection
+		op.close();							
+		
+		System.out.println(nInserted+" pairs of query-document inserted.");
+		System.out.println(nExcluded+" pairs of query-document excluded.");		
+	}
+	
+	private String convertArchiveUrl(String s) {
+		String saux=s.replace(DOMAIN,"arquivo.pt");
+		return saux;		
+	}
+	
+	private String convertArchiveDate(String s) {
+		return s.replace(",","");		
+	}
+	
+	private String convertArchiveQuery(String s) throws UnsupportedEncodingException{
+		return URLEncoder.encode(s,"UTF-8");		
+	}
+
+	/**
+	 * Store data into database
+	 * @param query
+	 * @param queryType
+	 * @param url
+	 * @param sdate
+	 * @param urlArchived
+	 * @param features
+	 */
+	private void storeData(String query, int queryType, String url, String sdate, String urlArchived, String features) throws SQLException, ParseException {
+		
+		int qid=op.selectQueryId(query,queryType);
+		if (qid==-1) {
+			qid=op.selectQueryCount();	
+			op.insertQuery(qid,query,queryType);
+		}
+		
+		Date date=formatterTimestamp.parse(sdate);		
+		int docid=op.selectDocId(url,new Timestamp(date.getTime()));
+		if (docid==-1) {
+			docid=op.selectDocCount();	
+			op.insertDoc(docid,url,new Timestamp(date.getTime()),urlArchived);			
+		}
+		
+		int qiddocid=op.selectQueryDocId(qid,docid);
+		if (qiddocid==-1) {
+			qiddocid=op.selectQueryDocCount();	
+			op.insertQueryDoc(qiddocid,qid,docid,features);
+			nInserted++;
+		}	
+		else {
+			nExcluded++;
+		}
+	}
+}

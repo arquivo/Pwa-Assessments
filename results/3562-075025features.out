@@ -1,0 +1,2523 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: público
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=p%C3%BAblico&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2000
+1 FILTERED FROM other model: http://www.publico.pt/ http://publico.pt
+TREC_FORMAT: 1 Q0 id982index5 1 0.6440454 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+2 FILTERED FROM other model: http://www.publico.pt/publico/hoje/ http://publico.pt/publico/hoje
+TREC_FORMAT: 1 Q0 id311010index0 2 0.5750449 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/publico/hoje http://publico.pt/publico/hoje
+FILTERED: http://www.publico.pt/publico/hoje http://publico.pt/publico/hoje
+FILTERED: http://www.publico.pt/publico/hoje http://publico.pt/publico/hoje
+FILTERED: http://www.publico.pt/publico/hoje http://publico.pt/publico/hoje
+3 FILTERED FROM other model: http://www.smmp.pt/ http://smmp.pt
+TREC_FORMAT: 1 Q0 id6453index5 3 0.56370443 pwa_35+62_0.75+0.25
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+4 FILTERED FROM other model: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+TREC_FORMAT: 1 Q0 id1574index5 4 0.56338483 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+5 FILTERED FROM other model: http://www.publico.com/ http://publico.com
+TREC_FORMAT: 1 Q0 id687index1 5 0.55923027 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+6 FILTERED FROM other model: http://nautilus.fis.uc.pt/softc/Read_c/publico/publico.htm http://nautilus.fis.uc.pt/softc/Read_c/publico/publico.htm
+TREC_FORMAT: 1 Q0 id2872601index2 6 0.55534995 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+7 FILTERED FROM other model: http://www.igcp.pt/ http://igcp.pt
+TREC_FORMAT: 1 Q0 id15714index5 7 0.5536117 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.smmp.pt/ http://smmp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+8 FILTERED FROM other model: http://ultimahora.publico.pt/ http://ultimahora.publico.pt
+TREC_FORMAT: 1 Q0 id3613index5 8 0.5499273 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/docs/copyright.html http://publico.pt/docs/copyright.html
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+9 FILTERED FROM other model: http://www.publico.pt/canal http://publico.pt/canal
+TREC_FORMAT: 1 Q0 id906530index0 9 0.54676163 pwa_35+62_0.75+0.25
+FILTERED: http://www.igcp.pt/ http://igcp.pt
+10 FILTERED FROM other model: http://www.publico.pt/dossiers/expo98/expo980809.html http://publico.pt/dossiers/expo98/expo980809.html
+TREC_FORMAT: 1 Q0 id1341291index0 10 0.5390823 pwa_35+62_0.75+0.25
+QUERY: expo 98
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=expo+98&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F1998&dateEnd=31%2F12%2F1998
+1 FILTERED FROM other model: http://www.expo98.pt/ http://expo98.pt
+TREC_FORMAT: 2 Q0 id983index5 1 0.6658791 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://www.expo98.pt/pt/default.html http://expo98.pt/pt
+TREC_FORMAT: 2 Q0 id5050index5 2 0.59142303 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://www.expo98.pt/en/default.html http://expo98.pt/en
+TREC_FORMAT: 2 Q0 id11354index5 3 0.58850235 pwa_35+62_0.75+0.25
+FILTERED: http://www.expo98.pt/ http://expo98.pt
+4 FILTERED FROM other model: http://www.ipv.pt/millenium/pers10_expo.htm http://ipv.pt/millenium/pers10_expo.htm
+TREC_FORMAT: 2 Q0 id23286index2 4 0.5575133 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://www.expo98.pt/en/homepage.asp http://expo98.pt/en/homepage.asp
+TREC_FORMAT: 2 Q0 id1883510index5 5 0.5318471 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.uarte.mct.pt/expo98/acampamento/ http://uarte.mct.pt/expo98/acampamento
+TREC_FORMAT: 2 Q0 id283882index5 6 0.53146356 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://www.uarte.mct.pt/expo98/ http://uarte.mct.pt/expo98
+TREC_FORMAT: 2 Q0 id287229index5 7 0.5287503 pwa_35+62_0.75+0.25
+FILTERED: http://www.expo98.pt/pt/index.asp http://expo98.pt/pt
+8 FILTERED FROM other model: http://www.expo98.pt/es/lang_es.html http://expo98.pt/es/lang_es.html
+TREC_FORMAT: 2 Q0 id3475624index5 8 0.52590454 pwa_35+62_0.75+0.25
+9 FILTERED FROM other model: http://www.deb.uminho.pt/biotec98/ http://deb.uminho.pt/biotec98
+TREC_FORMAT: 2 Q0 id284708index5 9 0.52547085 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.citidep.pt/act/expo.html http://citidep.pt/act/expo.html
+TREC_FORMAT: 2 Q0 id1881218index5 10 0.5242996 pwa_35+62_0.75+0.25
+QUERY: benfica
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=benfica&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.slbenfica.pt/ http://slbenfica.pt
+TREC_FORMAT: 3 Q0 id922index3 1 0.63394624 pwa_35+62_0.75+0.25
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+2 FILTERED FROM other model: http://benfica-lisboa.olx.pt/desencontros-perda-de-contato-cat-297 http://benfica-lisboa.olx.pt/desencontros-perda-de-contato-cat-297
+TREC_FORMAT: 3 Q0 id12774index3 2 0.5851172 pwa_35+62_0.75+0.25
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+3 FILTERED FROM other model: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+TREC_FORMAT: 3 Q0 id5854index5 3 0.5813333 pwa_35+62_0.75+0.25
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+4 FILTERED FROM other model: http://benfica-lisboa.olx.pt/trabalho-voluntario-cat-268 http://benfica-lisboa.olx.pt/trabalho-voluntario-cat-268
+TREC_FORMAT: 3 Q0 id19873index3 4 0.56303847 pwa_35+62_0.75+0.25
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+5 FILTERED FROM other model: http://www.paroquia-benfica.pt/ http://paroquia-benfica.pt
+TREC_FORMAT: 3 Q0 id346219index4 5 0.55713046 pwa_35+62_0.75+0.25
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/index.asp http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+FILTERED: http://www.slbenfica.pt/ http://slbenfica.pt
+6 FILTERED FROM other model: http://ranchobenficaribatej.home.sapo.pt/ http://ranchobenficaribatej.home.sapo.pt
+TREC_FORMAT: 3 Q0 id258442index4 6 0.54520273 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://cbevora.com.sapo.pt/ http://cbevora.com.sapo.pt
+TREC_FORMAT: 3 Q0 id234612index3 7 0.5411439 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://benfica-lisboa.olx.pt/imobiliaria-cat-374 http://benfica-lisboa.olx.pt/imobiliaria-cat-374
+TREC_FORMAT: 3 Q0 id38301index3 8 0.5394435 pwa_35+62_0.75+0.25
+9 FILTERED FROM other model: http://benfica-lisboa.olx.pt/escritorios-lojas-cat-368 http://benfica-lisboa.olx.pt/escritorios-lojas-cat-368
+TREC_FORMAT: 3 Q0 id28565index3 9 0.53940886 pwa_35+62_0.75+0.25
+FILTERED: http://www.paroquia-benfica.pt/ http://paroquia-benfica.pt
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+FILTERED: http://www.uninova.pt/UNIAGUA/ppf/slb/slbindex.html http://uninova.pt/UNIAGUA/ppf/slb/slbindex.html
+10 FILTERED FROM other model: http://planeta.clix.pt/amsguimaraes/index.html http://planeta.clix.pt/amsguimaraes
+TREC_FORMAT: 3 Q0 id278368index0 10 0.53445196 pwa_35+62_0.75+0.25
+QUERY: cavaco silva
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=cavaco+silva&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://eunaodesisto.blogs.sapo.pt/ http://eunaodesisto.blogs.sapo.pt
+TREC_FORMAT: 4 Q0 id2654index3 1 0.6025125 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://www.cavacosilva.pt/ http://cavacosilva.pt
+TREC_FORMAT: 4 Q0 id23532index4 2 0.58961225 pwa_35+62_0.75+0.25
+FILTERED: http://eunaodesisto.blogs.sapo.pt/ http://eunaodesisto.blogs.sapo.pt
+FILTERED: http://www.cavacosilva.pt/ http://cavacosilva.pt
+3 FILTERED FROM other model: http://supercavaco.blogspot.com/ http://supercavaco.blogspot.com
+TREC_FORMAT: 4 Q0 id44028index4 3 0.5597293 pwa_35+62_0.75+0.25
+FILTERED: http://eunaodesisto.blogs.sapo.pt/ http://eunaodesisto.blogs.sapo.pt
+FILTERED: http://www.cavacosilva.pt/ http://cavacosilva.pt
+FILTERED: http://eunaodesisto.blogs.sapo.pt/ http://eunaodesisto.blogs.sapo.pt
+FILTERED: http://supercavaco.blogspot.com/ http://supercavaco.blogspot.com
+FILTERED: http://www.cavacosilva.pt/index.php http://cavacosilva.pt
+FILTERED: http://www.cavacosilva.pt/ http://cavacosilva.pt
+FILTERED: http://www.cavacosilva.pt/ http://cavacosilva.pt
+FILTERED: http://www.cavacosilva.pt/ http://cavacosilva.pt
+4 FILTERED FROM other model: http://bde.weblog.com.pt/ http://bde.weblog.com.pt
+TREC_FORMAT: 4 Q0 id5668index3 4 0.5277587 pwa_35+62_0.75+0.25
+FILTERED: http://bde.weblog.com.pt/ http://bde.weblog.com.pt
+5 FILTERED FROM other model: http://ablasfemia.blogspot.com/ http://ablasfemia.blogspot.com
+TREC_FORMAT: 4 Q0 id83index3 5 0.52390325 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.publico.pt/ http://publico.pt
+TREC_FORMAT: 4 Q0 id91383index0 6 0.52352154 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+7 FILTERED FROM other model: http://www.correiomanha.pt/ http://correiomanha.pt
+TREC_FORMAT: 4 Q0 id2006index5 7 0.52334106 pwa_35+62_0.75+0.25
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+8 FILTERED FROM other model: http://www.dn.pt/ http://dn.pt
+TREC_FORMAT: 4 Q0 id110721index0 8 0.52329636 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+9 FILTERED FROM other model: http://www.rum.pt/ http://rum.pt
+TREC_FORMAT: 4 Q0 id2020index4 9 0.52327573 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.fccn.pt/ http://fccn.pt
+TREC_FORMAT: 4 Q0 id40442index0 10 0.52327025 pwa_35+62_0.75+0.25
+QUERY: universidade de lisboa
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=universidade+de+lisboa&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://lisboacity.olx.pt/outras-aulas-cat-283 http://lisboacity.olx.pt/outras-aulas-cat-283
+TREC_FORMAT: 5 Q0 id3579index3 1 0.7954073 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://lisboacity.olx.pt/aulas-particulares-cat-278 http://lisboacity.olx.pt/aulas-particulares-cat-278
+TREC_FORMAT: 5 Q0 id3322index3 2 0.7895366 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://www.ul.pt/ http://ul.pt
+TREC_FORMAT: 5 Q0 id1255index3 3 0.7443701 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://lisboacity.olx.pt/comunidade-varios-cat-381 http://lisboacity.olx.pt/comunidade-varios-cat-381
+TREC_FORMAT: 5 Q0 id4375index3 4 0.739885 pwa_35+62_0.75+0.25
+FILTERED: http://www.ul.pt/ http://ul.pt
+5 FILTERED FROM other model: http://www.fc.ul.pt/ http://fc.ul.pt
+TREC_FORMAT: 5 Q0 id2642index4 5 0.66297877 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.utl.pt/ http://utl.pt
+TREC_FORMAT: 5 Q0 id1919index4 6 0.66027987 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://www.unl.pt/ http://unl.pt
+TREC_FORMAT: 5 Q0 id5003index0 7 0.6563213 pwa_35+62_0.75+0.25
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.fc.ul.pt/ http://fc.ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+8 FILTERED FROM other model: http://www.universidade-autonoma.pt/ http://universidade-autonoma.pt
+TREC_FORMAT: 5 Q0 id9056index3 8 0.6348117 pwa_35+62_0.75+0.25
+FILTERED: http://www.universidade-autonoma.pt/ http://universidade-autonoma.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+9 FILTERED FROM other model: http://www.ualg.pt/ http://ualg.pt
+TREC_FORMAT: 5 Q0 id1694index3 9 0.6304599 pwa_35+62_0.75+0.25
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.unl.pt/ http://unl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.ul.pt/ http://ul.pt
+FILTERED: http://www.utl.pt/ http://utl.pt
+10 FILTERED FROM other model: http://www.ulusofona.pt/ http://ulusofona.pt
+TREC_FORMAT: 5 Q0 id7776index4 10 0.6085636 pwa_35+62_0.75+0.25
+QUERY: josé saramago
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=jos%C3%A9+saramago&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+TREC_FORMAT: 6 Q0 id50844index4 1 0.6310555 pwa_35+62_0.75+0.25
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+2 FILTERED FROM other model: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+TREC_FORMAT: 6 Q0 id687684index0 2 0.58803546 pwa_35+62_0.75+0.25
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+3 FILTERED FROM other model: http://www.esec-mafra.rcts.pt/ http://esec-mafra.rcts.pt
+TREC_FORMAT: 6 Q0 id230693index4 3 0.5796313 pwa_35+62_0.75+0.25
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/index.html http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+4 FILTERED FROM other model: http://www.caleida.pt/saramago/biografia.html http://caleida.pt/saramago/biografia.html
+TREC_FORMAT: 6 Q0 id51740index3 4 0.5769251 pwa_35+62_0.75+0.25
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/ http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/ http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.esec-mafra.rcts.pt/ http://esec-mafra.rcts.pt
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/ http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/ http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+FILTERED: http://www.caleida.pt/saramago/ http://caleida.pt/saramago
+5 FILTERED FROM other model: http://www.ipn.pt/opsis/litera/saramago.htm http://ipn.pt/opsis/litera/saramago.htm
+TREC_FORMAT: 6 Q0 id607182index0 5 0.5623347 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+TREC_FORMAT: 6 Q0 id388242index4 6 0.5542023 pwa_35+62_0.75+0.25
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+7 FILTERED FROM other model: http://saramago.no.sapo.pt/ http://saramago.no.sapo.pt
+TREC_FORMAT: 6 Q0 id2394127index3 7 0.55252326 pwa_35+62_0.75+0.25
+FILTERED: http://www.citi.pt/cultura/literatura/romance/saramago/index.html http://citi.pt/cultura/literatura/romance/saramago
+FILTERED: http://saramago.no.sapo.pt/ http://saramago.no.sapo.pt
+FILTERED: http://www.ipn.pt/opsis/litera/saramago.htm http://ipn.pt/opsis/litera/saramago.htm
+8 FILTERED FROM other model: http://www.citi.pt/cultura/literatura/romance/saramago/corpo.html http://citi.pt/cultura/literatura/romance/saramago/corpo.html
+TREC_FORMAT: 6 Q0 id1667776index4 8 0.5504043 pwa_35+62_0.75+0.25
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+FILTERED: http://www.citi.pt/cultura/literatura/romance/pepetela/index.html http://citi.pt/cultura/literatura/romance/pepetela
+9 FILTERED FROM other model: http://fgc.math.ist.utl.pt/jfc.htm http://fgc.math.ist.utl.pt/jfc.htm
+TREC_FORMAT: 6 Q0 id71058index3 9 0.55020696 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.caleida.pt/saramago/premios.html http://caleida.pt/saramago/premios.html
+TREC_FORMAT: 6 Q0 id1984902index3 10 0.54984003 pwa_35+62_0.75+0.25
+QUERY: câmara municipal do marco de canaveses
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=c%C3%A2mara+municipal+do+marco+de+canaveses&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+TREC_FORMAT: 7 Q0 id33131index3 1 0.65896714 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+2 FILTERED FROM other model: http://www.cm-porto.pt/ http://cm-porto.pt
+TREC_FORMAT: 7 Q0 id268292index0 2 0.5543079 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+TREC_FORMAT: 7 Q0 id620943index5 3 0.5543062 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+4 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/main.html http://cm-marco-canaveses.pt/main.html
+TREC_FORMAT: 7 Q0 id278381index4 4 0.5504714 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+TREC_FORMAT: 7 Q0 id2504887index3 5 0.5479991 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+6 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+TREC_FORMAT: 7 Q0 id48737index2 6 0.54644704 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/camara/ http://cm-marco-canaveses.pt/camara
+FILTERED: http://cm-marco-canaveses.pt/ http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/camara/ http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/camara/index.htm http://cm-marco-canaveses.pt/camara
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+7 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+TREC_FORMAT: 7 Q0 id5751706index2 7 0.5424298 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/index.htm http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/index.htm http://cm-marco-canaveses.pt
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+FILTERED: http://www.cm-porto.pt/ http://cm-porto.pt
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/ http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/ http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/ http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/ http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/ http://cm-marco-canaveses.pt/turismo
+FILTERED: http://www.cm-marco-canaveses.pt/turismo/hotelaria.htm http://cm-marco-canaveses.pt/turismo/hotelaria.htm
+8 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/turismo/mapas-vinhos.htm http://cm-marco-canaveses.pt/turismo/mapas-vinhos.htm
+TREC_FORMAT: 7 Q0 id761896index2 8 0.5330672 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+FILTERED: http://www.cm-marco-canaveses.pt/main.htm http://cm-marco-canaveses.pt/main.htm
+9 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/ssi_menu.htm http://cm-marco-canaveses.pt/ssi_menu.htm
+TREC_FORMAT: 7 Q0 id1485709index2 9 0.53110045 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.cm-marco-canaveses.pt/galeria/galeria2.htm http://cm-marco-canaveses.pt/galeria/galeria2.htm
+TREC_FORMAT: 7 Q0 id6769247index0 10 0.53094935 pwa_35+62_0.75+0.25
+QUERY: primeiro ministro
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=primeiro+ministro&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F2005&dateEnd=31%2F12%2F2009
+1 FILTERED FROM other model: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+TREC_FORMAT: 8 Q0 id63605index3 1 0.61167794 pwa_35+62_0.75+0.25
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+2 FILTERED FROM other model: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+TREC_FORMAT: 8 Q0 id5946index0 2 0.5818144 pwa_35+62_0.75+0.25
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+3 FILTERED FROM other model: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/ http://portugal.gov.pt/Portal/PT/Primeiro_Ministro
+TREC_FORMAT: 8 Q0 id68754index3 3 0.5679374 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.portugal.gov.pt/pt/Primeiro-Ministro/Default.htm http://portugal.gov.pt/pt/Primeiro-Ministro/Default.htm
+TREC_FORMAT: 8 Q0 id296848index4 4 0.56471384 pwa_35+62_0.75+0.25
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.primeiro-ministro.gov.pt/ http://primeiro-ministro.gov.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/ http://portugal.gov.pt/Portal/PT/Primeiro_Ministro
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+5 FILTERED FROM other model: http://www.portugal.gov.pt/Portal/PT/Governos/Governos_Constitucionais/GC17/Composicao/Perfil/JoseSocratesCarvalhoPintodeSousa.htm http://portugal.gov.pt/Portal/PT/Governos/Governos_Constitucionais/GC17/Composicao/Perfil/JoseSocratesCarvalhoPintodeSousa.htm
+TREC_FORMAT: 8 Q0 id171080index3 5 0.54890764 pwa_35+62_0.75+0.25
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+6 FILTERED FROM other model: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20060329_PM_Int_AR_Ciencia.htm http://portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20060329_PM_Int_AR_Ciencia.htm
+TREC_FORMAT: 8 Q0 id154457index3 6 0.5415107 pwa_35+62_0.75+0.25
+FILTERED: http://www.portugal.gov.pt/Portal/PT/Governos/Governos_Constitucionais/GC17/Composicao/Perfil/JoseSocratesCarvalhoPintodeSousa.htm http://portugal.gov.pt/Portal/PT/Governos/Governos_Constitucionais/GC17/Composicao/Perfil/JoseSocratesCarvalhoPintodeSousa.htm
+FILTERED: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/ http://portugal.gov.pt/Portal/PT/Primeiro_Ministro
+7 FILTERED FROM other model: http://www.ministrodarepublica-madeira.pt/ http://ministrodarepublica-madeira.pt
+TREC_FORMAT: 8 Q0 id545101index0 7 0.5349699 pwa_35+62_0.75+0.25
+FILTERED: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20060329_PM_Int_AR_Ciencia.htm http://portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20060329_PM_Int_AR_Ciencia.htm
+8 FILTERED FROM other model: http://www.portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20050921_PM_Int_AR.htm http://portugal.gov.pt/Portal/PT/Primeiro_Ministro/Intervencoes/20050921_PM_Int_AR.htm
+TREC_FORMAT: 8 Q0 id150986index3 8 0.52715725 pwa_35+62_0.75+0.25
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+FILTERED: http://www.oprimeirodejaneiro.pt/ http://oprimeirodejaneiro.pt
+9 FILTERED FROM other model: http://www.publico.pt/ http://publico.pt
+TREC_FORMAT: 8 Q0 id24579index0 9 0.52364194 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+FILTERED: http://www.publico.pt/ http://publico.pt
+10 FILTERED FROM other model: http://www.uminho.pt/ http://uminho.pt
+TREC_FORMAT: 8 Q0 id40241index0 10 0.5231743 pwa_35+62_0.75+0.25
+QUERY: festival da canção
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=festival+da+can%C3%A7%C3%A3o&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://festivais.home.sapo.pt/ http://festivais.home.sapo.pt
+TREC_FORMAT: 9 Q0 id15521index4 1 0.54412615 pwa_35+62_0.75+0.25
+FILTERED: http://festivais.home.sapo.pt/ http://festivais.home.sapo.pt
+2 FILTERED FROM other model: http://solnascente.com.sapo.pt/ http://solnascente.com.sapo.pt
+TREC_FORMAT: 9 Q0 id867998index0 2 0.5347398 pwa_35+62_0.75+0.25
+FILTERED: http://festivais.home.sapo.pt/ http://festivais.home.sapo.pt
+3 FILTERED FROM other model: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+TREC_FORMAT: 9 Q0 id10612705index3 3 0.5292075 pwa_35+62_0.75+0.25
+FILTERED: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+FILTERED: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+FILTERED: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+FILTERED: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+FILTERED: http://www.etc.pt/xfm/tp-galiza.htm http://etc.pt/xfm/tp-galiza.htm
+4 FILTERED FROM other model: http://festivalcancao07.no.sapo.pt/ http://festivalcancao07.no.sapo.pt
+TREC_FORMAT: 9 Q0 id1070608index0 4 0.527787 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://www.promusica.web.pt/ http://promusica.web.pt
+TREC_FORMAT: 9 Q0 id206214index3 5 0.525205 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://praiaclaridade.no.sapo.pt/ http://praiaclaridade.no.sapo.pt
+TREC_FORMAT: 9 Q0 id2081333index3 6 0.5251085 pwa_35+62_0.75+0.25
+FILTERED: http://www.promusica.web.pt/index.htm http://promusica.web.pt
+7 FILTERED FROM other model: http://festival1988.no.sapo.pt/ http://festival1988.no.sapo.pt
+TREC_FORMAT: 9 Q0 id3048219index0 7 0.5244694 pwa_35+62_0.75+0.25
+FILTERED: http://festival1988.no.sapo.pt/ http://festival1988.no.sapo.pt
+FILTERED: http://festival1988.no.sapo.pt/ http://festival1988.no.sapo.pt
+FILTERED: http://festival1988.no.sapo.pt/ http://festival1988.no.sapo.pt
+8 FILTERED FROM other model: http://festival1989.no.sapo.pt/ http://festival1989.no.sapo.pt
+TREC_FORMAT: 9 Q0 id3144142index0 8 0.5243342 pwa_35+62_0.75+0.25
+FILTERED: http://festival1989.no.sapo.pt/ http://festival1989.no.sapo.pt
+FILTERED: http://festival1989.no.sapo.pt/ http://festival1989.no.sapo.pt
+9 FILTERED FROM other model: http://festival1985.no.sapo.pt/ http://festival1985.no.sapo.pt
+TREC_FORMAT: 9 Q0 id3852638index0 9 0.52430916 pwa_35+62_0.75+0.25
+FILTERED: http://festival1985.no.sapo.pt/ http://festival1985.no.sapo.pt
+FILTERED: http://festival1985.no.sapo.pt/ http://festival1985.no.sapo.pt
+FILTERED: http://festival1985.no.sapo.pt/ http://festival1985.no.sapo.pt
+10 FILTERED FROM other model: http://festival1991.no.sapo.pt/ http://festival1991.no.sapo.pt
+TREC_FORMAT: 9 Q0 id2069492index0 10 0.52430487 pwa_35+62_0.75+0.25
+QUERY: finanças
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=finan%C3%A7as&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F2007&dateEnd=31%2F12%2F2009
+1 FILTERED FROM other model: http://lisboacity.olx.pt/contabilidade-financas-cat-254 http://lisboacity.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id4997index3 1 0.8676147 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://www.min-financas.pt/ http://min-financas.pt
+TREC_FORMAT: 10 Q0 id2949index4 2 0.71448773 pwa_35+62_0.75+0.25
+FILTERED: http://www.min-financas.pt/ http://min-financas.pt
+3 FILTERED FROM other model: http://coimbracity.olx.pt/contabilidade-financas-cat-254 http://coimbracity.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id10137index3 3 0.6766581 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://portocity.olx.pt/contabilidade-financas-cat-254 http://portocity.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id14340index3 4 0.6669123 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://lisboa.olx.pt/contabilidade-financas-cat-254 http://lisboa.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id18268index3 5 0.6386231 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://gondomar-porto.olx.pt/contabilidade-financas-cat-254 http://gondomar-porto.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id17198index3 6 0.63026494 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://aveiro-aveiro.olx.pt/contabilidade-financas-cat-254 http://aveiro-aveiro.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id18006index3 7 0.61760515 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://funchal.olx.pt/contabilidade-financas-cat-254 http://funchal.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id26041index3 8 0.60934806 pwa_35+62_0.75+0.25
+9 FILTERED FROM other model: http://oeiras.olx.pt/contabilidade-financas-cat-254 http://oeiras.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id18804index3 9 0.6086079 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://bragacity.olx.pt/contabilidade-financas-cat-254 http://bragacity.olx.pt/contabilidade-financas-cat-254
+TREC_FORMAT: 10 Q0 id25878index3 10 0.5958286 pwa_35+62_0.75+0.25
+QUERY: federação de kickboxing
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=federa%C3%A7%C3%A3o+de+kickboxing&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.terravista.pt/aguaalto/3110/ http://terravista.pt/aguaalto/3110
+TREC_FORMAT: 11 Q0 id1105029index0 1 0.5721856 pwa_35+62_0.75+0.25
+FILTERED: http://www.terravista.pt/aguaalto/3110/ http://terravista.pt/aguaalto/3110
+2 FILTERED FROM other model: http://www.fpr.pt/ http://fpr.pt
+TREC_FORMAT: 11 Q0 id6369index4 2 0.5562037 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://aeiou.pt/registos/k/KickBoxing_Mundial.html http://aeiou.pt/registos/k/KickBoxing_Mundial.html
+TREC_FORMAT: 11 Q0 id46736549index0 3 0.5292436 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.regiao-sul.pt/ http://regiao-sul.pt
+TREC_FORMAT: 11 Q0 id111496633index0 4 0.5179073 pwa_35+62_0.75+0.25
+FILTERED: http://www.regiao-sul.pt/ http://regiao-sul.pt
+5 FILTERED FROM other model: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+TREC_FORMAT: 11 Q0 id82137353index0 5 0.51676595 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS/index.html http://netindex.pt/links/LAZER/DESPORTOS/ARTES_MARCIAIS
+6 FILTERED FROM other model: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+TREC_FORMAT: 11 Q0 id20867768index0 6 0.5150045 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+FILTERED: http://www.netindex.pt/links/LAZER/DESPORTOS/FEDERACOES/index.html http://netindex.pt/links/LAZER/DESPORTOS/FEDERACOES
+7 FILTERED FROM other model: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+TREC_FORMAT: 11 Q0 id163605index3 7 0.5140814 pwa_35+62_0.75+0.25
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+FILTERED: http://www.sedesporto.pt/federacoes.htm http://sedesporto.pt/federacoes.htm
+8 FILTERED FROM other model: http://www.aeiou.pt/registos/a/Associacao_de_Kickboxing_de_Lisboa.html http://aeiou.pt/registos/a/Associacao_de_Kickboxing_de_Lisboa.html
+TREC_FORMAT: 11 Q0 id3464539index0 8 0.51137084 pwa_35+62_0.75+0.25
+9 FILTERED FROM other model: http://www.infordesporto.pt/semana/ http://infordesporto.pt/semana
+TREC_FORMAT: 11 Q0 id3384822index5 9 0.5088025 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://infordesporto.sapo.pt/ http://infordesporto.sapo.pt
+TREC_FORMAT: 11 Q0 id4329556index0 10 0.5084253 pwa_35+62_0.75+0.25
+QUERY: volkswagen
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=volkswagen&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.olx.pt/q/volkswagen/c-378 http://olx.pt/q/volkswagen/c-378
+TREC_FORMAT: 12 Q0 id6436index3 1 0.6516623 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://www.volkswagen.pt/ http://volkswagen.pt
+TREC_FORMAT: 12 Q0 id28529index4 2 0.6189419 pwa_35+62_0.75+0.25
+FILTERED: http://www.olx.pt/q/volkswagen/c-378 http://olx.pt/q/volkswagen/c-378
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+3 FILTERED FROM other model: http://www.olx.pt/q/volkswagen-polo/c-378 http://olx.pt/q/volkswagen-polo/c-378
+TREC_FORMAT: 12 Q0 id16309index3 3 0.5712846 pwa_35+62_0.75+0.25
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+4 FILTERED FROM other model: http://www.olx.pt/q/volkswagen-passat/c-378 http://olx.pt/q/volkswagen-passat/c-378
+TREC_FORMAT: 12 Q0 id16247index3 4 0.56958675 pwa_35+62_0.75+0.25
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+5 FILTERED FROM other model: http://www.olx.pt/q/volkswagen-beetle/c-378 http://olx.pt/q/volkswagen-beetle/c-378
+TREC_FORMAT: 12 Q0 id16549index3 5 0.5652058 pwa_35+62_0.75+0.25
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+6 FILTERED FROM other model: http://www.100ia.pt/ http://100ia.pt
+TREC_FORMAT: 12 Q0 id29892index4 6 0.55375934 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://www.siva-sa.pt/ http://siva-sa.pt
+TREC_FORMAT: 12 Q0 id399637index0 7 0.55256844 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://www.volkswagen.com/ http://volkswagen.com
+TREC_FORMAT: 12 Q0 id97702index4 8 0.5486469 pwa_35+62_0.75+0.25
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+FILTERED: http://www.volkswagen.pt/ http://volkswagen.pt
+9 FILTERED FROM other model: http://automotor.xl.pt/aut/microsites/siva/vw/golf.shtml http://automotor.xl.pt/aut/microsites/siva/vw/golf.shtml
+TREC_FORMAT: 12 Q0 id179278index0 9 0.54089886 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://automotor.xl.pt/aut/microsites/siva/ http://automotor.xl.pt/aut/microsites/siva
+TREC_FORMAT: 12 Q0 id326016index0 10 0.53474736 pwa_35+62_0.75+0.25
+QUERY: telepizza
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=telepizza&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.telepizza.pt/ http://telepizza.pt
+TREC_FORMAT: 13 Q0 id152498index4 1 0.6203714 pwa_35+62_0.75+0.25
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+2 FILTERED FROM other model: http://planeta.clix.pt/telecunha/index.html http://planeta.clix.pt/telecunha
+TREC_FORMAT: 13 Q0 id174820index0 2 0.5948807 pwa_35+62_0.75+0.25
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://planeta.clix.pt/telecunha/index.html http://planeta.clix.pt/telecunha
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+3 FILTERED FROM other model: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+TREC_FORMAT: 13 Q0 id1274591index3 3 0.5686703 pwa_35+62_0.75+0.25
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/ http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal/index.php http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/ http://telepizza.pt
+4 FILTERED FROM other model: http://www.aeiou.pt/registos/t/Telepizza.html http://aeiou.pt/registos/t/Telepizza.html
+TREC_FORMAT: 13 Q0 id21567386index0 4 0.53687936 pwa_35+62_0.75+0.25
+FILTERED: http://www.aeiou.pt/registos/t/Telepizza.html http://aeiou.pt/registos/t/Telepizza.html
+FILTERED: http://www.aeiou.pt/registos/t/Telepizza.html http://aeiou.pt/registos/t/Telepizza.html
+FILTERED: http://www.aeiou.pt/registos/t/Telepizza.html http://aeiou.pt/registos/t/Telepizza.html
+FILTERED: http://www.telepizza.pt/portal http://telepizza.pt/portal
+FILTERED: http://planeta.clix.pt/telecunha/index.html http://planeta.clix.pt/telecunha
+FILTERED: http://planeta.clix.pt/telecunha/index.html http://planeta.clix.pt/telecunha
+FILTERED: http://planeta.clix.pt/telecunha/index.html http://planeta.clix.pt/telecunha
+FILTERED: http://www.telepizza.pt/portal http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal http://telepizza.pt/portal
+FILTERED: http://www.telepizza.pt/portal http://telepizza.pt/portal
+5 FILTERED FROM other model: http://www.telepizza.pt/files/7088_filme_2_44637e262207c.swf http://telepizza.pt/files/7088_filme_2_44637e262207c.swf
+TREC_FORMAT: 13 Q0 id6710206index3 5 0.52723134 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.eb1-vialonga-n1.rcts.pt/trab_4.htm http://eb1-vialonga-n1.rcts.pt/trab_4.htm
+TREC_FORMAT: 13 Q0 id31472049index4 6 0.52317965 pwa_35+62_0.75+0.25
+FILTERED: http://www.telepizza.pt/files/7088_filme_2_44637e262207c.swf http://telepizza.pt/files/7088_filme_2_44637e262207c.swf
+FILTERED: http://www.eb1-vialonga-n1.rcts.pt/trab_4.htm http://eb1-vialonga-n1.rcts.pt/trab_4.htm
+7 FILTERED FROM other model: http://www.negocios.pt/ http://negocios.pt
+TREC_FORMAT: 13 Q0 id6354812index2 7 0.51970726 pwa_35+62_0.75+0.25
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.negocios.pt/ http://negocios.pt
+FILTERED: http://www.eb1-vialonga-n1.rcts.pt/trab_4.htm http://eb1-vialonga-n1.rcts.pt/trab_4.htm
+8 FILTERED FROM other model: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+TREC_FORMAT: 13 Q0 id536934index5 8 0.51591605 pwa_35+62_0.75+0.25
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+9 FILTERED FROM other model: http://www.cfcomunicacao.pt/colocacoes_globais.asp http://cfcomunicacao.pt/colocacoes_globais.asp
+TREC_FORMAT: 13 Q0 id10478425index3 9 0.51576674 pwa_35+62_0.75+0.25
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+FILTERED: http://www.portugalvirtual.pt/0/8075dat1.html http://portugalvirtual.pt/0/8075dat1.html
+10 FILTERED FROM other model: http://www.portugalvirtual.pt/0/8076dat1.html http://portugalvirtual.pt/0/8076dat1.html
+TREC_FORMAT: 13 Q0 id586126index5 10 0.5157402 pwa_35+62_0.75+0.25
+QUERY: hospital barreiro
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=hospital+barreiro&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2007
+1 FILTERED FROM other model: http://www.cm-barreiro.pt/ http://cm-barreiro.pt
+TREC_FORMAT: 14 Q0 id2492195index0 1 0.5489054 pwa_35+62_0.75+0.25
+FILTERED: http://www.cm-barreiro.pt/ http://cm-barreiro.pt
+2 FILTERED FROM other model: http://www.jornaldobarreiro.com.pt/ http://jornaldobarreiro.com.pt
+TREC_FORMAT: 14 Q0 id1147579index0 2 0.54704547 pwa_35+62_0.75+0.25
+FILTERED: http://www.jornaldobarreiro.com.pt/ http://jornaldobarreiro.com.pt
+FILTERED: http://www.jornaldobarreiro.com.pt/ http://jornaldobarreiro.com.pt
+FILTERED: http://www.jornaldobarreiro.com.pt/ http://jornaldobarreiro.com.pt
+3 FILTERED FROM other model: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+TREC_FORMAT: 14 Q0 id844461index0 3 0.52729017 pwa_35+62_0.75+0.25
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/ http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+FILTERED: http://clientes.netvisao.pt/jomapaen/index.htm http://clientes.netvisao.pt/jomapaen
+4 FILTERED FROM other model: http://www.hospitalfeira.min-saude.pt/ http://hospitalfeira.min-saude.pt
+TREC_FORMAT: 14 Q0 id1501999index0 4 0.52519506 pwa_35+62_0.75+0.25
+FILTERED: http://www.hospitalfeira.min-saude.pt/ http://hospitalfeira.min-saude.pt
+5 FILTERED FROM other model: http://www.hsc.min-saude.pt/ http://hsc.min-saude.pt
+TREC_FORMAT: 14 Q0 id4258895index0 5 0.52495354 pwa_35+62_0.75+0.25
+FILTERED: http://www.hsc.min-saude.pt/ http://hsc.min-saude.pt
+6 FILTERED FROM other model: http://www.correiomanha.pt/ http://correiomanha.pt
+TREC_FORMAT: 14 Q0 id48362index0 6 0.52297556 pwa_35+62_0.75+0.25
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+FILTERED: http://www.correiomanha.pt/ http://correiomanha.pt
+7 FILTERED FROM other model: http://www.digital.pt/ http://digital.pt
+TREC_FORMAT: 14 Q0 id27632index0 7 0.5228605 pwa_35+62_0.75+0.25
+FILTERED: http://www.digital.pt/ http://digital.pt
+8 FILTERED FROM other model: http://www.infordesporto.pt/ http://infordesporto.pt
+TREC_FORMAT: 14 Q0 id29631index0 8 0.5224931 pwa_35+62_0.75+0.25
+9 FILTERED FROM other model: http://www.iapmei.pt/ http://iapmei.pt
+TREC_FORMAT: 14 Q0 id233114index0 9 0.5224538 pwa_35+62_0.75+0.25
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+FILTERED: http://www.iapmei.pt/ http://iapmei.pt
+10 FILTERED FROM other model: http://www.aeiou.pt/ http://aeiou.pt
+TREC_FORMAT: 14 Q0 id54644index0 10 0.52182674 pwa_35+62_0.75+0.25
+QUERY: fernando pessoa
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=fernando+pessoa&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.ufp.pt/ http://ufp.pt
+TREC_FORMAT: 15 Q0 id11961index4 1 0.6630064 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+2 FILTERED FROM other model: http://www.vidaslusofonas.pt/fernando_pessoa.htm http://vidaslusofonas.pt/fernando_pessoa.htm
+TREC_FORMAT: 15 Q0 id49099index4 2 0.596684 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+3 FILTERED FROM other model: http://mundopessoa.blogspot.com/ http://mundopessoa.blogspot.com
+TREC_FORMAT: 15 Q0 id4639index4 3 0.58195686 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.vidaslusofonas.pt/fernando_pessoa.htm http://vidaslusofonas.pt/fernando_pessoa.htm
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.vidaslusofonas.pt/fernando_pessoa.htm http://vidaslusofonas.pt/fernando_pessoa.htm
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+4 FILTERED FROM other model: http://7mares.terravista.pt/bibliomanias/pessoana.htm http://7mares.terravista.pt/bibliomanias/pessoana.htm
+TREC_FORMAT: 15 Q0 id458573index0 4 0.58043396 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+5 FILTERED FROM other model: http://omj.no.sapo.pt/ http://omj.no.sapo.pt
+TREC_FORMAT: 15 Q0 id66227index3 5 0.5797173 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+6 FILTERED FROM other model: http://pt.wikipedia.org/wiki/Fernando_Pessoa http://pt.wikipedia.org/wiki/Fernando_Pessoa
+TREC_FORMAT: 15 Q0 id21862index4 6 0.5767357 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://omj.no.sapo.pt/ http://omj.no.sapo.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+7 FILTERED FROM other model: http://www.terravista.pt/Guincho/2482/pessoa.html http://terravista.pt/Guincho/2482/pessoa.html
+TREC_FORMAT: 15 Q0 id651382index0 7 0.5745512 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+8 FILTERED FROM other model: http://www.eb23-fernando-pessoa-lsb.rcts.pt/ http://eb23-fernando-pessoa-lsb.rcts.pt
+TREC_FORMAT: 15 Q0 id381321index0 8 0.57348526 pwa_35+62_0.75+0.25
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+FILTERED: http://www.vidaslusofonas.pt/fernando_pessoa.htm http://vidaslusofonas.pt/fernando_pessoa.htm
+FILTERED: http://www.ufp.pt/ http://ufp.pt
+9 FILTERED FROM other model: http://cidadaodomundo.weblog.com.pt/ http://cidadaodomundo.weblog.com.pt
+TREC_FORMAT: 15 Q0 id13614index3 9 0.56665486 pwa_35+62_0.75+0.25
+FILTERED: http://www.eb23-fernando-pessoa-lsb.rcts.pt/ http://eb23-fernando-pessoa-lsb.rcts.pt
+FILTERED: http://www.vidaslusofonas.pt/fernando_pessoa.htm http://vidaslusofonas.pt/fernando_pessoa.htm
+10 FILTERED FROM other model: http://www.instituto-camoes.pt/escritores/pessoa.htm http://instituto-camoes.pt/escritores/pessoa.htm
+TREC_FORMAT: 15 Q0 id287586index0 10 0.5606463 pwa_35+62_0.75+0.25
+QUERY: google
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=google&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.google.pt/ http://google.pt
+TREC_FORMAT: 16 Q0 id445index3 1 0.68854207 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+2 FILTERED FROM other model: http://images.google.com/ http://images.google.com
+TREC_FORMAT: 16 Q0 id15544index4 2 0.65226877 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://images.google.com/ http://images.google.com
+3 FILTERED FROM other model: http://earth.google.com/ http://earth.google.com
+TREC_FORMAT: 16 Q0 id1139index4 3 0.62983114 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+4 FILTERED FROM other model: http://maps.google.com/ http://maps.google.com
+TREC_FORMAT: 16 Q0 id2982index4 4 0.60940266 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+5 FILTERED FROM other model: http://scholar.google.com/ http://scholar.google.com
+TREC_FORMAT: 16 Q0 id2016index4 5 0.5943839 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+6 FILTERED FROM other model: http://news.google.pt/ http://news.google.pt
+TREC_FORMAT: 16 Q0 id2424index4 6 0.586589 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+7 FILTERED FROM other model: http://news.google.com/ http://news.google.com
+TREC_FORMAT: 16 Q0 id405index4 7 0.5843515 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+8 FILTERED FROM other model: http://googleblog.blogspot.com/ http://googleblog.blogspot.com
+TREC_FORMAT: 16 Q0 id4075index4 8 0.5832049 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://news.google.pt/ http://news.google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://news.google.com/ http://news.google.com
+FILTERED: http://www.google.pt/ http://google.pt
+9 FILTERED FROM other model: http://www.google.pt/about.html http://google.pt/about.html
+TREC_FORMAT: 16 Q0 id48250index4 9 0.5790889 pwa_35+62_0.75+0.25
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+FILTERED: http://www.google.pt/ http://google.pt
+10 FILTERED FROM other model: http://groups.google.com/ http://groups.google.com
+TREC_FORMAT: 16 Q0 id4155index4 10 0.5788173 pwa_35+62_0.75+0.25
+QUERY: adelaide ferreira
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=adelaide+ferreira&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2005
+1 FILTERED FROM other model: http://guitartabs.com.sapo.pt/arquivo-nacional/a/adelaide-ferreira/adelaide-ferreira.htm http://guitartabs.com.sapo.pt/arquivo-nacional/a/adelaide-ferreira/adelaide-ferreira.htm
+TREC_FORMAT: 17 Q0 id8682863index0 1 0.5264764 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://www.correiomanha.pt/ http://correiomanha.pt
+TREC_FORMAT: 17 Q0 id6364index0 2 0.52320945 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://student.dei.uc.pt/~pvigario/ngolalis.html http://student.dei.uc.pt/~pvigario/ngolalis.html
+TREC_FORMAT: 17 Q0 id1272073index5 3 0.5212401 pwa_35+62_0.75+0.25
+FILTERED: http://student.dei.uc.pt/~pvigario/ngolalis.html http://student.dei.uc.pt/~pvigario/ngolalis.html
+4 FILTERED FROM other model: http://www.educ.fc.ul.pt/hyper/amiranda.htm http://educ.fc.ul.pt/hyper/amiranda.htm
+TREC_FORMAT: 17 Q0 id2569551index0 4 0.51991653 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://www.cm-sintra.pt/ http://cm-sintra.pt
+TREC_FORMAT: 17 Q0 id189826index0 5 0.5192472 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.portugal-linha.pt/gbook/index.html http://portugal-linha.pt/gbook
+TREC_FORMAT: 17 Q0 id1790085index5 6 0.5184014 pwa_35+62_0.75+0.25
+FILTERED: http://www.portugal-linha.pt/gbook/index.html http://portugal-linha.pt/gbook
+FILTERED: http://www.portugal-linha.pt/gbook/index.html http://portugal-linha.pt/gbook
+7 FILTERED FROM other model: http://www.esec-porto-mos.rcts.pt/ http://esec-porto-mos.rcts.pt
+TREC_FORMAT: 17 Q0 id923632index0 7 0.5183171 pwa_35+62_0.75+0.25
+FILTERED: http://www.esec-porto-mos.rcts.pt/ http://esec-porto-mos.rcts.pt
+8 FILTERED FROM other model: http://www.oikos.pt/ http://oikos.pt
+TREC_FORMAT: 17 Q0 id171058index0 8 0.5179311 pwa_35+62_0.75+0.25
+FILTERED: http://www.oikos.pt/ http://oikos.pt
+9 FILTERED FROM other model: http://www.eps-quarteira.rcts.pt/ http://eps-quarteira.rcts.pt
+TREC_FORMAT: 17 Q0 id1134145index0 9 0.517913 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://portugalvirtual.pt/0/0121dat3.html http://portugalvirtual.pt/0/0121dat3.html
+TREC_FORMAT: 17 Q0 id910549index5 10 0.5177543 pwa_35+62_0.75+0.25
+QUERY: porto aveiro
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=porto+aveiro&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://aveiro.olx.pt/ http://aveiro.olx.pt
+TREC_FORMAT: 18 Q0 id306index3 1 0.66741866 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://portocity.olx.pt/industrial-cat-259 http://portocity.olx.pt/industrial-cat-259
+TREC_FORMAT: 18 Q0 id10979index3 2 0.66279566 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://portocity.olx.pt/tecnologia-informatica-programacao-cat-375 http://portocity.olx.pt/tecnologia-informatica-programacao-cat-375
+TREC_FORMAT: 18 Q0 id9119index3 3 0.64595425 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.portodeaveiro.pt/ http://portodeaveiro.pt
+TREC_FORMAT: 18 Q0 id6699index4 4 0.607748 pwa_35+62_0.75+0.25
+FILTERED: http://www.portodeaveiro.pt/ http://portodeaveiro.pt
+5 FILTERED FROM other model: http://www.ua.pt/ http://ua.pt
+TREC_FORMAT: 18 Q0 id23660index0 5 0.6014043 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://portocity.olx.pt/aluguer-por-temporada-cat-388 http://portocity.olx.pt/aluguer-por-temporada-cat-388
+TREC_FORMAT: 18 Q0 id13320index3 6 0.59278 pwa_35+62_0.75+0.25
+FILTERED: http://aveiro.olx.pt/ http://aveiro.olx.pt
+FILTERED: http://www.ua.pt/ http://ua.pt
+FILTERED: http://www.ua.pt/ http://ua.pt
+FILTERED: http://www.ua.pt/ http://ua.pt
+7 FILTERED FROM other model: http://aveiro-aveiro.olx.pt/homem-procura-homem-cat-299 http://aveiro-aveiro.olx.pt/homem-procura-homem-cat-299
+TREC_FORMAT: 18 Q0 id15142index3 7 0.58135617 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://radiofrequencias.no.sapo.pt/new_page_28.htm http://radiofrequencias.no.sapo.pt/new_page_28.htm
+TREC_FORMAT: 18 Q0 id214059index4 8 0.5794785 pwa_35+62_0.75+0.25
+FILTERED: http://www.ua.pt/ http://ua.pt
+9 FILTERED FROM other model: http://www.noticiasdeaveiro.pt/ http://noticiasdeaveiro.pt
+TREC_FORMAT: 18 Q0 id28991index3 9 0.5787849 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.moo.pt/ http://moo.pt
+TREC_FORMAT: 18 Q0 id4244index4 10 0.57727486 pwa_35+62_0.75+0.25
+QUERY: porto de lisboa
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=porto+de+lisboa&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://lisboacity.olx.pt/transporte-mudancas-cat-371 http://lisboacity.olx.pt/transporte-mudancas-cat-371
+TREC_FORMAT: 19 Q0 id4706index3 1 0.76247364 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://portocity.olx.pt/entradas-cat-402 http://portocity.olx.pt/entradas-cat-402
+TREC_FORMAT: 19 Q0 id7199index3 2 0.7262823 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://portocity.olx.pt/transporte-mudancas-cat-371 http://portocity.olx.pt/transporte-mudancas-cat-371
+TREC_FORMAT: 19 Q0 id6938index3 3 0.702885 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://portocity.olx.pt/publicidade-relacoes-publicas-cat-266 http://portocity.olx.pt/publicidade-relacoes-publicas-cat-266
+TREC_FORMAT: 19 Q0 id7376index3 4 0.6821841 pwa_35+62_0.75+0.25
+5 FILTERED FROM other model: http://porto.olx.pt/ http://porto.olx.pt
+TREC_FORMAT: 19 Q0 id475index3 5 0.6596105 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://lisboa.olx.pt/ http://lisboa.olx.pt
+TREC_FORMAT: 19 Q0 id147index3 6 0.64876723 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://portocity.olx.pt/desporto-cat-234 http://portocity.olx.pt/desporto-cat-234
+TREC_FORMAT: 19 Q0 id12552index3 7 0.642838 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://www.portoeditora.pt/ http://portoeditora.pt
+TREC_FORMAT: 19 Q0 id4126index4 8 0.6386918 pwa_35+62_0.75+0.25
+FILTERED: http://www.portoeditora.pt/ http://portoeditora.pt
+9 FILTERED FROM other model: http://portocity.olx.pt/casa-partamento-para-aluguer-cat-363 http://portocity.olx.pt/casa-partamento-para-aluguer-cat-363
+TREC_FORMAT: 19 Q0 id10780index3 9 0.6162474 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.metrolisboa.pt/ http://metrolisboa.pt
+TREC_FORMAT: 19 Q0 id6182index4 10 0.6006936 pwa_35+62_0.75+0.25
+QUERY: embaixada do brasil
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=embaixada+do+brasil&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.emb-brasil.pt/ http://emb-brasil.pt
+TREC_FORMAT: 20 Q0 id168407index0 1 0.5565827 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://planeta.clix.pt/helderfreitas/index.html http://planeta.clix.pt/helderfreitas
+TREC_FORMAT: 20 Q0 id97631index0 2 0.55483794 pwa_35+62_0.75+0.25
+3 FILTERED FROM other model: http://www.embaixadadobrasil.pt/ http://embaixadadobrasil.pt
+TREC_FORMAT: 20 Q0 id118281index4 3 0.5494961 pwa_35+62_0.75+0.25
+FILTERED: http://planeta.clix.pt/helderfreitas/index.html http://planeta.clix.pt/helderfreitas
+FILTERED: http://www.emb-brasil.pt/ http://emb-brasil.pt
+FILTERED: http://www.emb-brasil.pt/ http://emb-brasil.pt
+FILTERED: http://www.emb-brasil.pt/ http://emb-brasil.pt
+FILTERED: http://planeta.clix.pt/helderfreitas/index.html http://planeta.clix.pt/helderfreitas
+FILTERED: http://planeta.clix.pt/helderfreitas/index.html http://planeta.clix.pt/helderfreitas
+4 FILTERED FROM other model: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+TREC_FORMAT: 20 Q0 id4564753index0 4 0.524385 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+5 FILTERED FROM other model: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+TREC_FORMAT: 20 Q0 id520376index5 5 0.5238779 pwa_35+62_0.75+0.25
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+FILTERED: http://www.netindex.pt/links/POLITICA/EMBAIXADA/index.html http://netindex.pt/links/POLITICA/EMBAIXADA
+6 ADDED: http://www.cnc.pt/ http://cnc.pt
+TREC_FORMAT: 20 Q0 id101439index0 6 0.52333903 pwa_35+62_0.75+0.25
+FILTERED: http://www.cnc.pt/ http://cnc.pt
+FILTERED: http://www.emb-brasil.pt/ http://emb-brasil.pt
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+FILTERED: http://www.consulado-brasil.pt/instrucoesgerais.htm http://consulado-brasil.pt/instrucoesgerais.htm
+7 FILTERED FROM other model: http://www.lusa.pt/ http://lusa.pt
+TREC_FORMAT: 20 Q0 id110529index0 7 0.5222665 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://www.embaixadadobrasil.pt/docs/default.asp http://embaixadadobrasil.pt/docs/default.asp
+TREC_FORMAT: 20 Q0 id296133index4 8 0.52207243 pwa_35+62_0.75+0.25
+9 ADDED: http://www.aeiou.pt/ http://aeiou.pt
+TREC_FORMAT: 20 Q0 id79327index0 9 0.5218543 pwa_35+62_0.75+0.25
+10 ADDED: http://www.centroatl.pt/netnews/nn_ano1/edicao01/nn1_domi.html http://centroatl.pt/netnews/nn_ano1/edicao01/nn1_domi.html
+TREC_FORMAT: 20 Q0 id24757720index3 10 0.52182674 pwa_35+62_0.75+0.25
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://maria.sapo.pt/robots.txt http://maria.sapo.pt/robots.txt
+TREC_FORMAT: 21 Q0 id7053201index0 1 0.5295119 pwa_35+62_0.75+0.25
+2 FILTERED FROM other model: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+TREC_FORMAT: 21 Q0 id3841686index0 2 0.51797414 pwa_35+62_0.75+0.25
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+FILTERED: http://afemaria.com.sapo.pt/ http://afemaria.com.sapo.pt
+3 FILTERED FROM other model: http://www.portugal-linha.pt/acd6.html http://portugal-linha.pt/acd6.html
+TREC_FORMAT: 21 Q0 id22002652index0 3 0.51724446 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.clix.pt/ http://clix.pt
+TREC_FORMAT: 21 Q0 id198394index0 4 0.5154782 pwa_35+62_0.75+0.25
+FILTERED: http://www.clix.pt/ http://clix.pt
+5 ADDED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+TREC_FORMAT: 21 Q0 id913064index3 5 0.5151777 pwa_35+62_0.75+0.25
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+6 FILTERED FROM other model: http://ultimahora.publico.pt/ http://ultimahora.publico.pt
+TREC_FORMAT: 21 Q0 id1673573index0 6 0.5150831 pwa_35+62_0.75+0.25
+FILTERED: http://www.vidaslusofonas.pt/machado_de_assis.htm http://vidaslusofonas.pt/machado_de_assis.htm
+7 ADDED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+TREC_FORMAT: 21 Q0 id274193index5 7 0.51492435 pwa_35+62_0.75+0.25
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+FILTERED: http://www.isa.utl.pt/campus/7_jack2.htm http://isa.utl.pt/campus/7_jack2.htm
+8 ADDED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+TREC_FORMAT: 21 Q0 id7980406index3 8 0.5136049 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+FILTERED: http://www.netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre/index.html http://netindex.pt/links/EDUCACAO/ESCOLAS/ESCOLAS_SEC/Estre
+9 ADDED: http://www.oeste.online.pt/ http://oeste.online.pt
+TREC_FORMAT: 21 Q0 id507004index0 9 0.51341283 pwa_35+62_0.75+0.25
+10 ADDED: http://www.publico.pt/tv/ http://publico.pt/tv
+TREC_FORMAT: 21 Q0 id2734index0 10 0.51272553 pwa_35+62_0.75+0.25
+QUERY: notícias de leiria
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=not%C3%ADcias+de+leiria&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2003
+1 FILTERED FROM other model: http://noticias.sapo.pt/ http://noticias.sapo.pt
+TREC_FORMAT: 22 Q0 id894index0 1 0.63523906 pwa_35+62_0.75+0.25
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+2 FILTERED FROM other model: http://leiria.daaz.pt/ http://leiria.daaz.pt
+TREC_FORMAT: 22 Q0 id27051index0 2 0.6156138 pwa_35+62_0.75+0.25
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://leiria.daaz.pt/ http://leiria.daaz.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+3 FILTERED FROM other model: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+TREC_FORMAT: 22 Q0 id239364index0 3 0.57642066 pwa_35+62_0.75+0.25
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+4 FILTERED FROM other model: http://www.iplei.pt/ http://iplei.pt
+TREC_FORMAT: 22 Q0 id45203index0 4 0.57233155 pwa_35+62_0.75+0.25
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://noticias.sapo.pt/ http://noticias.sapo.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+5 FILTERED FROM other model: http://radiofrequencias.no.sapo.pt/new_page_27.htm http://radiofrequencias.no.sapo.pt/new_page_27.htm
+TREC_FORMAT: 22 Q0 id805614index0 5 0.56023806 pwa_35+62_0.75+0.25
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+6 FILTERED FROM other model: http://www.grupoautoindustrial.pt/noticias/ http://grupoautoindustrial.pt/noticias
+TREC_FORMAT: 22 Q0 id759163index0 6 0.55984676 pwa_35+62_0.75+0.25
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+7 FILTERED FROM other model: http://www.jn.pt/ http://jn.pt
+TREC_FORMAT: 22 Q0 id420846index0 7 0.55866 pwa_35+62_0.75+0.25
+FILTERED: http://www.regiaodeleiria.pt/ http://regiaodeleiria.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://www.grupoautoindustrial.pt/noticias/ http://grupoautoindustrial.pt/noticias
+8 FILTERED FROM other model: http://noticias.clix.pt/ http://noticias.clix.pt
+TREC_FORMAT: 22 Q0 id72878index0 8 0.55752546 pwa_35+62_0.75+0.25
+FILTERED: http://www.jn.pt/ http://jn.pt
+FILTERED: http://www.iplei.pt/ http://iplei.pt
+FILTERED: http://radiofrequencias.no.sapo.pt/new_page_27.htm http://radiofrequencias.no.sapo.pt/new_page_27.htm
+9 FILTERED FROM other model: http://www.estg.iplei.pt/ http://estg.iplei.pt
+TREC_FORMAT: 22 Q0 id108958index0 9 0.55124116 pwa_35+62_0.75+0.25
+10 FILTERED FROM other model: http://www.dnoticias.pt/ http://dnoticias.pt
+TREC_FORMAT: 22 Q0 id47791index0 10 0.54748994 pwa_35+62_0.75+0.25
+QUERY: horários soflusa
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=hor%C3%A1rios+soflusa&sfunctions=35+62&sboosts=0.75+0.25&dateStart=01%2F01%2F2003&dateEnd=31%2F12%2F2006
+1 FILTERED FROM other model: http://www.soflusa.pt/ http://soflusa.pt
+TREC_FORMAT: 23 Q0 id441575index0 1 0.5995042 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+FILTERED: http://www.soflusa.pt/ http://soflusa.pt
+2 FILTERED FROM other model: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+TREC_FORMAT: 23 Q0 id40877397index0 2 0.54645383 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa2.htm http://soflusa.pt/horar_soflusa2.htm
+3 FILTERED FROM other model: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+TREC_FORMAT: 23 Q0 id1282995index0 3 0.5440246 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa.htm http://soflusa.pt/horar_soflusa.htm
+4 FILTERED FROM other model: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+TREC_FORMAT: 23 Q0 id9295656index0 4 0.54289865 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa4.htm http://soflusa.pt/horar_soflusa4.htm
+5 FILTERED FROM other model: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+TREC_FORMAT: 23 Q0 id24968223index0 5 0.5425205 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa1.htm http://soflusa.pt/horar_soflusa1.htm
+6 FILTERED FROM other model: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+TREC_FORMAT: 23 Q0 id41173020index0 6 0.54162693 pwa_35+62_0.75+0.25
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/horar_soflusa3.htm http://soflusa.pt/horar_soflusa3.htm
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+FILTERED: http://www.soflusa.pt/default.htm http://soflusa.pt
+7 FILTERED FROM other model: http://www.portugalmail.pt/ http://portugalmail.pt
+TREC_FORMAT: 23 Q0 id402866index0 7 0.5172553 pwa_35+62_0.75+0.25
+FILTERED: http://portugalmail.pt/ http://portugalmail.pt
+8 FILTERED FROM other model: http://www.pcp.pt/avante/1236/3603d1.html http://pcp.pt/avante/1236/3603d1.html
+TREC_FORMAT: 23 Q0 id25174137index0 8 0.5068232 pwa_35+62_0.75+0.25
+FILTERED: http://www.pcp.pt/avante/1236/3603d1.html http://pcp.pt/avante/1236/3603d1.html
+9 FILTERED FROM other model: http://www.ussetubal.pt/Sabque/sabque_progov_01.htm http://ussetubal.pt/Sabque/sabque_progov_01.htm
+TREC_FORMAT: 23 Q0 id10294055index0 9 0.5058341 pwa_35+62_0.75+0.25
+FILTERED: http://www.ussetubal.pt/Sabque/sabque_progov_01.htm http://ussetubal.pt/Sabque/sabque_progov_01.htm
+FILTERED: http://www.ussetubal.pt/Sabque/sabque_progov_01.htm http://ussetubal.pt/Sabque/sabque_progov_01.htm
+FILTERED: http://www.ussetubal.pt/Sabque/sabque_progov_01.htm http://ussetubal.pt/Sabque/sabque_progov_01.htm
+FILTERED: http://www.ussetubal.pt/Sabque/sabque_progov_01.htm http://ussetubal.pt/Sabque/sabque_progov_01.htm
+10 FILTERED FROM other model: http://www.sindefer.pt/historico.asp http://sindefer.pt/historico.asp
+TREC_FORMAT: 23 Q0 id15296428index0 10 0.50461465 pwa_35+62_0.75+0.25
+QUERY: restaurantes público
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=restaurantes+p%C3%BAblico&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.publico.pt/ http://publico.pt
+TREC_FORMAT: 24 Q0 id2499index0 1 0.58466613 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+2 FILTERED FROM other model: http://publico.clix.pt/ http://publico.clix.pt
+TREC_FORMAT: 24 Q0 id39530index0 2 0.5552124 pwa_35+62_0.75+0.25
+FILTERED: http://publico.clix.pt/ http://publico.clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+3 FILTERED FROM other model: http://foruns.publico.pt/ http://foruns.publico.pt
+TREC_FORMAT: 24 Q0 id14393index0 3 0.5316473 pwa_35+62_0.75+0.25
+4 FILTERED FROM other model: http://www.netindex.pt/links/LAZER/TURISMO/RESTAURANTES/index.html http://netindex.pt/links/LAZER/TURISMO/RESTAURANTES
+TREC_FORMAT: 24 Q0 id81288index5 4 0.53092825 pwa_35+62_0.75+0.25
+FILTERED: http://www.netindex.pt/links/LAZER/TURISMO/RESTAURANTES/index.html http://netindex.pt/links/LAZER/TURISMO/RESTAURANTES
+FILTERED: http://www.netindex.pt/links/LAZER/TURISMO/RESTAURANTES/index.html http://netindex.pt/links/LAZER/TURISMO/RESTAURANTES
+FILTERED: http://foruns.publico.pt/ http://foruns.publico.pt
+FILTERED: http://foruns.publico.pt/ http://foruns.publico.pt
+FILTERED: http://www.publico.clix.pt/ http://publico.clix.pt
+5 FILTERED FROM other model: http://www.umassd.edu/SpecialPrograms/caboverde/porthome.html http://umassd.edu/SpecialPrograms/caboverde/porthome.html
+TREC_FORMAT: 24 Q0 id367index1 5 0.5238417 pwa_35+62_0.75+0.25
+FILTERED: http://www.publico.pt/ http://publico.pt
+6 FILTERED FROM other model: http://www.fbento.pt/ http://fbento.pt
+TREC_FORMAT: 24 Q0 id234415index4 6 0.52308387 pwa_35+62_0.75+0.25
+7 FILTERED FROM other model: http://www.lusa.pt/ http://lusa.pt
+TREC_FORMAT: 24 Q0 id86692index0 7 0.52222437 pwa_35+62_0.75+0.25
+8 FILTERED FROM other model: http://www.aeiou.pt/ http://aeiou.pt
+TREC_FORMAT: 24 Q0 id41593index0 8 0.52180755 pwa_35+62_0.75+0.25
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+FILTERED: http://www.aeiou.pt/ http://aeiou.pt
+9 FILTERED FROM other model: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+TREC_FORMAT: 24 Q0 id1681927index0 9 0.5207166 pwa_35+62_0.75+0.25
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+FILTERED: http://www.sapo.pt/empresas/produtos/electro/ http://sapo.pt/empresas/produtos/electro
+10 FILTERED FROM other model: http://www.expresso.pt/ http://expresso.pt
+TREC_FORMAT: 24 Q0 id1946index5 10 0.5202789 pwa_35+62_0.75+0.25
+QUERY: icat projectos
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=icat+projectos&sfunctions=35+62&sboosts=0.75+0.25
+1 FILTERED FROM other model: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+TREC_FORMAT: 25 Q0 id86214index4 1 0.598138 pwa_35+62_0.75+0.25
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+FILTERED: http://www.icat.fc.ul.pt/ http://icat.fc.ul.pt
+2 FILTERED FROM other model: http://www.fc.ul.pt/ http://fc.ul.pt
+TREC_FORMAT: 25 Q0 id2017index5 2 0.5235286 pwa_35+62_0.75+0.25
+FILTERED: http://www.fc.ul.pt/ http://fc.ul.pt
+FILTERED: http://www.fc.ul.pt/ http://fc.ul.pt
+FILTERED: http://www.fc.ul.pt/index.html http://fc.ul.pt
+3 FILTERED FROM other model: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+TREC_FORMAT: 25 Q0 id462518index5 3 0.5198432 pwa_35+62_0.75+0.25
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+FILTERED: http://www.tecnet.pt/dmn/dmn904.html http://tecnet.pt/dmn/dmn904.html
+4 FILTERED FROM other model: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+TREC_FORMAT: 25 Q0 id1991955index0 4 0.51631963 pwa_35+62_0.75+0.25
+FILTERED: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+FILTERED: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+FILTERED: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+FILTERED: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+FILTERED: http://correio.cc.fc.ul.pt/users.html http://correio.cc.fc.ul.pt/users.html
+5 FILTERED FROM other model: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+TREC_FORMAT: 25 Q0 id29131583index3 5 0.51613235 pwa_35+62_0.75+0.25
+6 FILTERED FROM other model: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+TREC_FORMAT: 25 Q0 id6517116index0 6 0.5154164 pwa_35+62_0.75+0.25
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+FILTERED: http://www.icat.fc.ul.pt/pt/ubv/default.htm http://icat.fc.ul.pt/pt/ubv
+7 FILTERED FROM other model: http://ui.icat.fc.ul.pt/ http://ui.icat.fc.ul.pt
+TREC_FORMAT: 25 Q0 id3298436index0 7 0.5139074 pwa_35+62_0.75+0.25
+FILTERED: http://ui.icat.fc.ul.pt/ http://ui.icat.fc.ul.pt
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+FILTERED: http://www.dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/investigacao/projectos.htm
+8 FILTERED FROM other model: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+TREC_FORMAT: 25 Q0 id10940424index0 8 0.5128684 pwa_35+62_0.75+0.25
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+FILTERED: http://www.icat.fc.ul.pt/pt/ua/ http://icat.fc.ul.pt/pt/ua
+9 FILTERED FROM other model: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+TREC_FORMAT: 25 Q0 id13533701index0 9 0.5120462 pwa_35+62_0.75+0.25
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+FILTERED: http://www.icat.fc.ul.pt/pt/homepage/objectivos.htm http://icat.fc.ul.pt/pt/homepage/objectivos.htm
+10 FILTERED FROM other model: http://www.dqb.fc.ul.pt/docentes/fsantos/uk/research/projectos.htm http://dqb.fc.ul.pt/docentes/fsantos/uk/research/projectos.htm
+TREC_FORMAT: 25 Q0 id14849895index3 10 0.5119871 pwa_35+62_0.75+0.25
+3 pairs of query-document inserted.
+0 pairs of query-document excluded.

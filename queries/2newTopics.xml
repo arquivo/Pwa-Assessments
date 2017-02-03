@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<topics>
+	<topic number="47" type="navigational">
+		<query>lpcpcc</query>
+ 		<period>
+			<start format="dd/mm/yyyy">01/01/1996</start>
+			<end format="dd/mm/yyyy">31/12/2003</end>
+		</period>
+		<description lang="en">
+			Portuguese league of owners and breeders of racing horses between 1996 and 2003.
+		</description>
+		<description lang="pt">
+			Liga Portuguesa de criadores e proprietarios de cavalos de corrida entre 1996 e 2003.
+		</description>
+	</topic>
+	<topic number="49" type="navigational">
+		<query>rádio douro sul</query>
+		<period>
+			<start format="dd/mm/yyyy">01/01/1997</start>
+			<end format="dd/mm/yyyy">31/12/1997</end>
+		</period>
+		<description lang="en">
+			Douro Sul radio in 1997.
+		</description>
+		<description lang="pt">
+			Rádio Douro Sul em 1997.
+		</description>
+	</topic>
+</topics>

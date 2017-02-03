@@ -1,0 +1,384 @@
+See pwa-technologies/PwaLucene/load.txt to load memcached.
+
+
+
+
+p15.arquivo.pt - runs all query servers and web servers
+tomcat configs: 
+	/opt/searcher/deploy/configs/search-servers.txt
+query server configs:
+	/opt/searcher/collections/search-servers.txt
+	
+p2.arquivo.pt - memcache (or membase)
+
+t3.tomba.fccn.pt - database for assessments
+
+
+
+
+LOAD DATABASE FOR ASSESSMENTS:
+
+
+Nutch
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 34 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >34features.out 2>stderr &
+
+Lucene
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 32 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >32features.out 2>stderr &
+
+BM25
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 31 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >31features.out 2>stderr &
+
+Nutch + # versions: 3 confs
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+64 0.9+0.1   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-0901features.out 2>stderr &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+64 0.75+0.25 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-075025features.out 2>stderr &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+64 0.5+0.5   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-0505features.out 2>stderr &
+
+Nutch + span versions: 3 confs
+
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+62 0.9+0.1   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-0901features.out 2>stderr &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+62 0.75+0.25 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-075025features.out 2>stderr &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/topics.xml 0 35+62 0.5+0.5   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-0505features.out 2>stderr &
+
+
+
+
+
+Edit users for assessment:
+ ~/apache-tomcat-5.5.25/conf/tomcat-users.xml
+
+Assessment services:
+ http://p15.arquivo.pt/pwaassessments/assessements - <version,topic> pairs
+ http://p15.arquivo.pt/pwaassessments/review - all versions per topic
+ http://p15.arquivo.pt/pwaassessments/consensus - big picture
+
+
+
+Compute Fleiss Kappa:
+
+ java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.FleissKappa //t3.tomba.fccn.pt/nutchwax nutchwax nutchx!
+   columns - rate; rows - querydoc; cells - number of judges that rate that value
+
+ validate: 
+  select count(*) from (select querydoc, rate, count(*) as c from assessments group by querydoc, rate having count(*)=1) as foo; 
+   728 - 3 iguais
+   301 - 2 iguais
+   442 - 0 iguais
+ cat kappa.txt | grep 3 | wc -l
+   728
+ cat kappa.txt | grep 2 | wc -l
+   301
+ 
+ Matlab:
+  fid = fopen('C:\Development\kappa.txt', 'r');
+  D = textscan(fid, '%d %d %d %d');
+  fclose(fid);
+  R=cell2mat(D);
+  fleiss(R)
+  % wthout -1 column
+  R(find(R(:,1)~=0),:)=[]
+  S=R(:,2:4);
+  fleiss(S);
+  -- joining 1 and 2 relevance levels
+  R(:,3)=R(:,3)+R(:,4)
+  S=R(:,2:3);
+  fleiss(S);
+
+
+Generate groud-truth:
+
+  -- join people and discuss disagreements.
+  
+  insert into assessments (querydoc,userid,rate,comment,creationtime,type)
+   select a.querydoc,'groundtruth',a.rate,null,current_timestamp,a.type from assessments a where a.userid='migcosta@gmail.com' and a.querydoc NOT IN (select querydoc from assessments where userid='groundtruth');
+   
+
+--  insert into assessments (querydoc,userid,rate,comment,creationtime,type)
+--   select querydoc,'groundtruth',rate,null,current_timestamp,type from assessments group by querydoc, rate, type having count(*)=3;
+
+ 
+ http://localhost:8080/pwaassessments/consensus - manual adjustment
+ 
+ -- see diferences between creator and groundtruth 
+  select a.querydoc,a.rate,a.type from assessments a, (select b.querydoc,b.rate,b.userid from assessments b where b.userid='groundtruth') as foo
+   where a.userid='migcosta@gmail.com' and foo.userid='groundtruth' and a.querydoc=foo.querydoc and a.rate!=foo.rate
+
+ -- check number of assessments
+  select count(*) from assessments where userid='groundtruth';
+  select count(*) from assessments where userid='groundtruth' and rate=-1;
+
+Create automatic assessments: TODO for informational queries
+ java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.AutomaticAssessments //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >lixo 2>stderr
+
+Get qrels:
+ java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QrelsGenerator //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! manual >qrels.manual 2>stderr
+ java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QrelsGenerator //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! automatic >qrels.automatic 2>stderr
+
+Validate qrels:
+ select count(*) from (
+	select d.code, d.url, q.id, q.query, q.periodstart, q.periodend, a.rate, a.type, qd.id, count(*) as c 
+	from assessments a, queriesdocs qd, queries q, docs d 
+	where a.userid='groundtruth' and a.type=1 and a.querydoc=qd.id and qd.query=q.id and qd.doc=d.id    and a.rate<>-1 
+	group by d.code, d.url, q.id, q.query, q.periodstart, q.periodend, a.rate, a.type,qd.id
+ ) as x;
+
+Evaluation:
+ /home/nutchwax/workspace/PwaAssessments/eval.sh -- see *.results files
+
+Topic difficulty:
+  evalTopicDifficulty.sh -- see *.results-query* files
+
+Significance tests:        
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-31features.out run-3564-0901features.out qrels.all | grep ttest
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-32features.out run-3564-0901features.out qrels.all | grep ttest
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-34features.out run-3564-0901features.out qrels.all | grep ttest
+  
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-31features.out run-3562-075025features.out qrels.all | grep ttest
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-32features.out run-3562-075025features.out qrels.all | grep ttest
+  java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-34features.out run-3562-075025features.out qrels.all | grep ttest
+  
+Formats:
+
+ Results format:
+  http://plg.uwaterloo.ca/~trecweb/2010.html 
+  grep '^TREC' 34features.out | cut -f 2- -d " " > run-34features.txt
+
+ Qrels format:
+  http://trec.nist.gov/data/qrels_eng/
+
+ Evaluation Tool:
+  http://trec.nist.gov/trec_eval/trec_eval_latest.tar.gz
+  ? http://trec.nist.gov/data/web10.html
+
+
+
+
+Evaluation:
+ trec_eval -q -c -M1000 official_qrels submitted_results 
+ trec_eval -m measure[.params] rel_info_file results_file
+ trec_eval -q -c -m ndcg.0=0,1=0,2=1,3=3 assessment_file submitted-searchresult-file
+
+-q  - por query
+-c  - avg. de todas as queries
+-l 1 -  minimum relevance judgement value needed for a document to be called relevant
+- M 10 - Max number of docs per topic to use in evaluation
+
+
+
+
+Change query: -- by a highly relevant version
+
+ remove old:
+
+delete from assessments where querydoc in (select id from queriesdocs qd where qd.query=21);
+delete from queriesdocs where query=21;
+delete from queries where id=21;
+
+ load new query:
+
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 34 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >34features.out-21 2>stderr1 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 32 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >32features.out-21 2>stderr2 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 31 1 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >31features.out-21 2>stderr3 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+64 0.9+0.1   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-0901features.out-21 2>stderr4 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+64 0.75+0.25 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-075025features.out-21 2>stderr5 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+64 0.5+0.5   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3564-0505features.out-21 2>stderr6 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+62 0.9+0.1   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-0901features.out-21 2>stderr7 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+62 0.75+0.25 //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-075025features.out-21 2>stderr8 &
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.QueryResultsScrapper /home/nutchwax/workspace/PwaAssessments/queries/1topics.xml 0 35+62 0.5+0.5   //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! >3562-0505features.out-21 2>stderr9 &
+
+
+Change version in topic by other highly relevant. Add it manually:
+
+  -- use explain to get features
+select * from docs where url='http://www.cavacosilva.pt/'; - id=31
+select * from queriesdocs where doc=31 and query=4;
+update docs set url='http://www.cavacosilva.pt/', date=TIMESTAMP '2006-01-25 14:06:22', urlarchived='http://p15.arquivo.pt/wayback/wayback/id710index2', code='id710index2' where id=31;
+p15.arquivo.pt/nutchwax/explain.jsp?idx=2&id=710&query=cavaco+silva&sfunctions=0+1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20+21+22+23+24+25+26+27+28+29+30+31+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58+59+60+61+62+63+64+65+66+67&sboosts=1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+update queriesdocs set features='0:39.0 1:1066660.0 2:895.0 3:566.52594 4:0.11328752 5:5.731814 6:0.0 7:687.0 8:0.0 9:14.040859 10:0.0 11:0.0 12:0.0 13:31.0 14:0.0 15:3.389813 16:0.0 17:0.0 18:8.0 19:47.0 20:19.0 21:4.2639227 22:5.2837133 23:11.674306 24:2.0 25:20798.0 26:9.0 27:4.8234115 28:1.4292525 29:3.8975563 30:0.13687432 31:5.834023 32:17.584776 33:0.5035934 34:23.79347 35:0.45409977 36:0.6931472 37:0.6931472 38:0.6931472 39:0.0 40:0.0 41:0.0 42:0.0 43:0.0 44:0.0 45:0.6931472 46:0.6931472 47:0.6931472 48:0.6931472 49:0.6931472 50:0.6931472 51:3.0 52:1.0 53:26.0 54:312.0 55:5.237725 56:15372.779 57:2199.1912 58:13173.587 59:13080.958 60:14416.958 61:1335.9999 62:0.8416293 63:63.0 64:0.5512901 65:0.7973453 66:0.46138033 67:0.7973453' where doc=31 and query=4;
+
+  -- if explain do not work because not all terms are matched
+select * from docs where url='http://www.isa.utl.pt/campus/7_jack2.htm'; id=1124
+select * from queriesdocs where doc=1124 and query=4;
+update docs set url='http://www.teatro-dmaria.pt/', date=TIMESTAMP '2008-03-14 16:31:37', urlarchived='http://p15.arquivo.pt/wayback/wayback/id19680index3', code='id19680index3' where id=1124;
+update queriesdocs set features='' where doc=1124 and query=4;
+
+
+ evaluate manualy
+
+ copy from consensus to groundtruth:
+   insert into assessments (querydoc,userid,rate,comment,creationtime,type)
+    select a.querydoc,'groundtruth',a.rate,null,current_timestamp,a.type from assessments a, queriesdocs qd where a.userid='migcosta@gmail.com' and qd.query=21 and a.querydoc=qd.id;
+
+
+
+
+Add new evaluation measures to lemur:
+
+ java -jar ~/tools/lemur-4.12/ireval/obj/ireval.jar run-32features.out run-3564-0901features.out qrels.all
+
+ edit to add ndcg@5 and @10:
+  ~/tools/lemur-ireval/src/ireval/Main.java
+  ~/tools/lemur-ireval/src/ireval/SetRetrievalEvaluator.java
+
+
+Add new evaluation measures to trec_eval:
+  edit files of measures such as m_P.c and add cut-off to array
+    static long long_cutoff_array[] = {1, 5, 10, 15, 20, 30, 100, 200, 500, 1000};
+  
+  make
+  make install
+  
+  
+  
+  
+  
+Get features dataset:  
+   java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.FeaturesGenerator //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! manual >myletor.manual 2>stderr &
+   
+   java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technologies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar:/home/nutchwax/.m2/repository/postgresql/postgresql/8.3-604.jdbc4/postgresql-8.3-604.jdbc4.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.FeaturesGenerator //t3.tomba.fccn.pt/nutchwax nutchwax nutchx! automatic >myletor.automatic 2>stderr &
+   
+   
+   
+   
+   
+Backup da base de dados:
+
+/data/nutchwaxdb.sql  
+
+
+
+
+L2R:
+ Partition the features dataset:
+   ./partition.sh
+   warning: see if you call this script only once by checking if the folds do not have duplicates 
+  
+ java -jar RankLib.jar -train FILE -test FILE ranker type  -metric2t <metric> NDCG@k>  -save <model>
+ 
+ 
+ -feature <file>
+ 
+ 
+ 
+  RankBoost 
+    -round 1000 !?!?
+  AdaRank
+    -round 1000 !?!?
+    
+  Get Results:
+   ./l2rGetResults.sh
+   
+  Get Results for all rankers and metrics:
+   ./l2rGetMultipleResults.sh
+   
+   # see documentation
+   java -jar ~/tools/RankLib-v2.0/bin/RankLib.jar
+   
+   
+   # to change Ranklib to print run 
+   emacs -nw ./src/ciir/umass/edu/learning/Evaluator.java 
+   ant
+   
+   
+   
+   
+   
+   
+Create datasets with less features:   		
+	cat training.all_1 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > training.all_CHECK_1 
+	cat training.all_2 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > training.all_CHECK_2
+	cat training.all_3 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > training.all_CHECK_3
+	cat training.all_4 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > training.all_CHECK_4
+	cat training.all_5 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > training.all_CHECK_5
+	
+	cat validation.all_1 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > validation.all_CHECK_1 
+	cat validation.all_2 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > validation.all_CHECK_2
+	cat validation.all_3 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > validation.all_CHECK_3
+	cat validation.all_4 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > validation.all_CHECK_4
+	cat validation.all_5 | awk '{printf "%s %s ",$1,$2; f:16 Qrels.java
+-rw-r--r-- 1 nutchwax tomba  5224 Out 13 13:19 DuplicatesPerQuery.java
+-rw-r--r-- 1 nutchwax tomba  2844 Out 13 12:36 Qrels.java~
+-rw-r--r-- 1 nutchwax tomba  5215 Out 12 16:50 DuplicatesPerQuery.java~
+	or(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > validation.all_CHECK_5
+
+	cat test.all_1 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > test.all_CHECK_1 
+	cat test.all_2 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > test.all_CHECK_2
+	cat test.all_3 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > test.all_CHECK_3
+	cat test.all_4 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > test.all_CHECK_4
+	cat test.all_5 | awk '{printf "%s %s ",$1,$2; for(i=3;i<59;i++) printf "%s ",$i; printf "%s %s\n",$71,$72}' > test.all_CHECK_5
+	
+	SCRIPT: /home/nutchwax/workspace/PwaAssessments/myletor/newDatasetCheck.sh	
+	
+	
+	
+#myletor.manual & myletor.automatic were created without any order
+./partition.sh # adds order by qid -> create training, validation and test datasets
+#test datasets if they are ordered by qid
+# cat test.all_1 | awk {'print $2'} | uniq
+# ...
+# cat test.all_5 | awk {'print $2'} | uniq
+#
+# cat newDataset/myletor.manual | wc -l
+# cat newDataset/myletor.automatic | wc -l
+#   this last two must sum the same that the following three (for i=1..5 for all training,validation and test)
+# cat newDataset/training.all_1 | wc -l
+# cat newDataset/validation.all_1 | wc -l
+# cat newDataset/test.all_1 | wc -l
+
+	
+./l2rGetMultipleResults-parallel.sh 
+## see results e.g. results.ranker1.metricNDCG\@1
+
+./l2rGetEvaluationAll.sh
+## see results e.g. results-ndcg_cut_1-run1.metricNDCG\@1
+
+
+
+#./l2rGetEvaluation.sh 1 NDCG@1
+#./l2rGetEvaluation.sh 2 NDCG@1
+#./l2rGetEvaluation.sh 3 NDCG@1
+#./l2rGetEvaluation.sh 4 NDCG@1
+#test datasets if they are ordered by qid
+# cat run3.metricNDCG\@1.iter4 | awk {'print $1'} | uniq
+
+#./grepResults.sh 1 NDCG@1 ndcg_cut_1
+#./grepResults.sh 2 NDCG@1 ndcg_cut_1
+#./grepResults.sh 3 NDCG@1 ndcg_cut_1
+#./grepResults.sh 4 NDCG@1 ndcg_cut_1
+
+
+
+
+
+
+
+DIRECTORY: resultsAllFeatures50Topics1TempDimension
+
+
+# Normalize - create myletor.all.normalized
+java -classpath /home/nutchwax/workspace/pwa-technologies/PwaArchive-access/projects/nutchwax/nutchwax-core/target/nutchwax-core-0.11.0-SNAPSHOT.jar:/home/nutchwax/workspace/pwa-technol
+ogies/PwaLucene/target/pwalucene-1.0.0-SNAPSHOT.jar:/home/nutchwax/workspace/PwaAssessments/target/classes/ pt.arquivo.assessments.Normalize newDataset/myletr.all
+../partitionNormalized.sh
+
+
+
+# 1st Experiment - one model for all
+./l2rGetResultsAndEvalAll.sh - DEVIA SER IGUAL AO COM DATASET TODO	
+
+
+# 2nd Experiment - with partition of datasets 
+./l2rGetResultsAndEvalWithSplitAll.sh
+# ./l2rGetResultsAndEvalWithSplit.sh
+
+#./l2rGetMultipleResults-parallel.sh 
+#./l2rGetEvaluationAll.sh
+
+
+# 3rd Experiment - multiplying features (per segment) as in aggregated search (per vertical)
+./l2rGetResultsAndEvalAll.sh
+#l2rGetResultsAndEval.sh  - it call this one 
+
+
+# 4th Experiment - adding binary features, one per segment
+./l2rGetResultsAndEvalAll-binary.sh
+
+

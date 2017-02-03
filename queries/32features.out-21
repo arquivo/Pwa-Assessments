@@ -1,0 +1,26 @@
+Connection to PostgreSQL 8.1.11 successful.
+
+QUERY: teatro dona maria segunda
+URL:http://p15.arquivo.pt/nutchwax/searchTests.jsp?summary=false&hitsPerPage=1500&hitsPerDup=0&queryMatches=-2&query=teatro+dona+maria+segunda&sfunctions=32&sboosts=1
+1 FILTERED FROM other model: http://dona-redonda.blogspot.com/2007_12_01_archive.html http://dona-redonda.blogspot.com/2007_12_01_archive.html
+TREC_FORMAT: 21 Q0 id184787index4 1 17.259836 pwa_32_1
+2 FILTERED FROM other model: http://dona-redonda.blogspot.com/2007_07_01_archive.html http://dona-redonda.blogspot.com/2007_07_01_archive.html
+TREC_FORMAT: 21 Q0 id2795441index4 2 17.250826 pwa_32_1
+3 FILTERED FROM other model: http://dona-redonda.blogspot.com/2008_02_01_archive.html http://dona-redonda.blogspot.com/2008_02_01_archive.html
+TREC_FORMAT: 21 Q0 id1473691index4 3 17.237034 pwa_32_1
+4 ADDED: http://maria.sapo.pt/robots.txt http://maria.sapo.pt/robots.txt
+TREC_FORMAT: 21 Q0 id7053201index0 4 15.404527 pwa_32_1
+5 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkylyyutvwTReJA.shtml
+TREC_FORMAT: 21 Q0 id16702680index3 5 15.23792 pwa_32_1
+6 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkplpupbhjwvSdm.shtml
+TREC_FORMAT: 21 Q0 id32412815index3 6 15.160301 pwa_32_1
+7 FILTERED FROM other model: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkpFAVlvPtzLZGP.shtml
+TREC_FORMAT: 21 Q0 id23844675index3 7 15.083573 pwa_32_1
+8 ADDED: http://www.teatro-cornucopia.pt/htmls/conteudos/EElVkEpAZAtFCXHVmK.shtml http://teatro-cornucopia.pt/htmls/conteudos/EElVkEpAZAtFCXHVmK.shtml
+TREC_FORMAT: 21 Q0 id10989603index3 8 14.966465 pwa_32_1
+9 ADDED: http://www.teatro-dmaria.pt/frontend/media/pdf/seminarios.pdf http://teatro-dmaria.pt/frontend/media/pdf/seminarios.pdf
+TREC_FORMAT: 21 Q0 id26555244index0 9 13.358892 pwa_32_1
+10 ADDED: http://primeirasedicoes.expresso.pt/ed1370/c-teatro.asp http://primeirasedicoes.expresso.pt/ed1370/c-teatro.asp
+TREC_FORMAT: 21 Q0 id24689790index0 10 11.773025 pwa_32_1
+4 pairs of query-document inserted.
+0 pairs of query-document excluded.
