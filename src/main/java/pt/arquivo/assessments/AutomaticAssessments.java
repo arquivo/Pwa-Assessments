@@ -27,8 +27,10 @@ import java.util.Vector;
  */
 public class AutomaticAssessments {
 	
-	private final static String DOMAIN="p15.arquivo.pt:8080";
-	private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/search.jsp?query=";	
+	//private final static String DOMAIN="p15.arquivo.pt:8080";
+	private final static String DOMAIN="p18.arquivo.pt";
+	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/search.jsp?query=";	
+	private final static String URL_QUERY="http://"+DOMAIN+"/search.jsp?query=";
 	
 	private final static int TIMEOUT=120 * 1000; // 2 minutes
 	

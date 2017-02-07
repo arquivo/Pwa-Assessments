@@ -372,9 +372,9 @@ public class SqlOperations {
 	   */
       public QueryDoc selectQueryDocWithLessAssessments(String userId, int maxAssessments, int offset) throws SQLException {	
     	  System.out.println( "Query before " + psQueryQueryDocWithLessAssessments.toString( ) );
-    	  psQueryQueryDocWithLessAssessments.setString(1,userId);		 
+    	 // psQueryQueryDocWithLessAssessments.setString(1,userId);		 
 		  //psQueryQueryDocWithLessAssessments.setInt(2,maxAssessments);
-		  psQueryQueryDocWithLessAssessments.setInt(2,offset);
+		  psQueryQueryDocWithLessAssessments.setInt(1,offset);
 		  System.out.println( "Query after " + psQueryQueryDocWithLessAssessments.toString( ) );
 		  QueryDoc ret=null;
 		  try{

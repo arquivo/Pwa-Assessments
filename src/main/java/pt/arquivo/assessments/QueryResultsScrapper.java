@@ -42,9 +42,11 @@ public class QueryResultsScrapper {
 	
 	//private final static String URL_QUERY="http://experimental.arquivo.pt/nutchwax/search.jsp?hitsPerPage=10&dateStart=01%2F01%2F1996&dateEnd=31%2F12%2F2010&query=";
 	//private final static String DOMAIN="t3.tomba.fccn.pt:8080";	
-	private final static String DOMAIN="p15.arquivo.pt:8080";
+	//private final static String DOMAIN="p15.arquivo.pt:8080";
+	private final static String DOMAIN="p18.arquivo.pt";
 	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&dateStart=01%2F01%2F1994&dateEnd=31%2F12%2F2010&query=";										
-	private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?summary=false&hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
+	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?summary=false&hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
+	private final static String URL_QUERY="http://"+DOMAIN+"/searchTests.jsp?summary=false&hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
 	private final static int NUM_FEATURES=68;
 	private SqlOperations op = null;
 	private int nInserted=0;
