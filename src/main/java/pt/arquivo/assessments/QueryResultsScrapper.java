@@ -129,14 +129,14 @@ public class QueryResultsScrapper {
 			Element periodEnd = topic.select("period > end").first();
 			Element description = topic.select("description[lang=pt]").first();
 			
-			System.out.println("QUERY: "+query.text());
+			System.out.println("QUERY: "+query.text()); 
 		
 			String squery=query.text();						
 			String encodedQuery = convertArchiveQuery(squery);			
 			String url = URL_QUERY+encodedQuery+"&sfunctions="+features+"&sboosts="+boosts;
 			String encodedPeriodStart = null;
 			String encodedPeriodEnd = null;
-			if (periodStart!=null) {				
+			if (periodStart!=null) { //period date				
 				encodedPeriodStart = convertArchiveQuery(periodStart.text());		
 				encodedPeriodEnd = convertArchiveQuery(periodEnd.text());
 				squery+=" "+periodStart.text()+" "+periodEnd.text();
@@ -186,16 +186,17 @@ public class QueryResultsScrapper {
 				}
 											
 				if (bstore) {																																
-					String docCode=archivelink.attr("abs:href");
-					docCode=docCode.substring(docCode.lastIndexOf("/")+1,docCode.length());
+					String linkPage = archivelink.attr( "abs:href" );
+					//docCode=docCode.substring(docCode.lastIndexOf("/")+1,docCode.length());
+					String docCode = linkPage.substring( 30 ); //Joao Nobre new code
+					System.out.println( "docCode = " + docCode );
 					
 					if (!duplicatesByRelFromOtherModels.contains(docUrlRadical)) { 					
 						System.out.println(rank+" ADDED: "+docUrl+" "+docUrlRadical);										
 						String pStart=(periodStart!=null) ? periodStart.text() : null;
 						String pEnd=(periodEnd!=null) ? periodEnd.text() : null;								
 						storeData(topicNumber,query.text(),pStart,pEnd,description.text(),queriesType,link.text(),date.text(),archivelink.attr("abs:href"),docCode,lExplainFeatures);
-					}
-					else {							
+					} else {							
 						System.out.println(rank+" FILTERED FROM other model: "+docUrl+" "+docUrlRadical);
 					}
 										
@@ -262,8 +263,7 @@ public class QueryResultsScrapper {
 		int qid=op.selectQueryId(query,queryType);
 		if (qid==-1) {	
 			op.insertQuery(topicNumber,query,periodStart,periodEnd,description,queryType);
-		}
-		else if (qid!=topicNumber) { // sanity check
+		} else if (qid!=topicNumber) { // sanity check
 			throw new IOException("Same query, but with a different topic number: "+qid+" != "+topicNumber);
 		}		
 		
