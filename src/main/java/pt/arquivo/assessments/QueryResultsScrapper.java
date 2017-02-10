@@ -164,12 +164,15 @@ public class QueryResultsScrapper {
 				String explainlinkHref=explainlink.attr("abs:href");	
 				int index=explainlinkHref.indexOf("&sfunctions");										
 				explainlinkHref=explainlinkHref.substring(0,index)+"&sfunctions="+allFunctions+"&sboosts="+allBoosts; // get all scores of all features															
-							
+				//TODO Erro no explanlinkHerf!!!!
+				
 				// connect to explain.jsp and collect feature values
-				Document docExplain = Jsoup.connect(explainlinkHref).timeout(TIMEOUT).get(); 										
-				Element lexplain = docExplain.select("span[class=features]").first();										
+				Document docExplain = Jsoup.connect(explainlinkHref).timeout(TIMEOUT).get(); 	
+				System.out.println( "explainlink connect = " + explainlinkHref );
+				Element lexplain = docExplain.select("span[class=features]").first();
 				String lExplainFeatures = lexplain.text(); // extract features										
-										
+				System.out.println( " lExplainFeatures = " + lExplainFeatures );			
+				
 				String docUrl=link.text();
 				// filter duplicates (including aliases) by relevance
 				String docUrlRadical=EntryPageExpansion.getRadical(docUrl);

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<topics>
+	<topic number="1" type="navigational">
+		<query>Antonio Costa</query>
+		<description lang="en">
+			The politician António Costa.
+		</description>
+		<description lang="pt">
+			O político António Costa.
+		</description>
+	</topic>
+	<topic number="2" type="navigational">
+		<query>Eça de Queiros</query>
+		<description lang="en">
+			Writer Eça de Queiros.
+		</description>
+		<description lang="pt">
+			Esscritor Eça de Queiros.
+		</description>
+	</topic>
+	<topic number="3" type="navigational">
+		<query>Bocage</query>
+		<period />
+		<description lang="en">
+			Writer Bocage.
+		</description>
+		<description lang="pt">
+			Escritor Bocage.
+		</description>
+	</topic>
+	<topic number="4" type="navigational">
+		<query>Eusébio</query>
+		<period />
+		<description lang="en">
+			Footballer Eusébio.
+		</description>
+		<description lang="pt">
+			Futebolista Eusébio.
+		</description>
+	</topic>
+	<topic number="5" type="navigational">
+		<query>Almeida Garret</query>
+		<period />
+		<description lang="en">
+			Writer, playwright, poet, politician Almeida Garret.
+		</description>
+		<description lang="pt">
+			Escritor, dramaturgo, poeta, político Almeida Garret.
+		</description>
+	</topic>
+	<topic number="6" type="navigational">
+		<query>Vasco Santana</query>
+		<period />
+		<description lang="en">			
+			Actor, Writer Vasco Santana.
+		</description>
+		<description lang="pt">			
+			Ator, escritor Vasco Santana.
+		</description>
+	</topic>
+	<topic number="7" type="navigational">
+		<query>Zeca Afonso</query>
+		<period />
+		<description lang="en">
+			Musician José Afonso.
+		</description>
+		<description lang="pt">
+			Musico José Afonso.
+		</description>
+	</topic>
+	<topic number="8" type="navigational">
+		<query>Nélson Évora</query>
+		<period>
+			<start format="dd/mm/yyyy">01/01/2005</start>
+			<end format="dd/mm/yyyy">31/12/2009</end>
+		</period>
+		<description lang="en">
+			Nélson Évora, athlete medalist at the 2008 Olympics in Beijing
+		</description>
+		<description lang="pt">
+			Nélson Évora, atleta medalhado nos jogos olimpicos de Pequim 2008
+		</description>
+	</topic>
+</topics>
