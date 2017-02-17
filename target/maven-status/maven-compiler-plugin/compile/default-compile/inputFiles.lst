@@ -7,10 +7,12 @@
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DatasetTemporalMultiplier.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/QrelsGenerator.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DuplicatesPerQuery.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Doc.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/AutomaticAssessments.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/SqlOperations.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Query.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/FleissKappa.java
+/home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/MigrateCodeDocs.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/DatasetTemporalBinaryFeatures.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/QueryDoc.java
 /home/jnobre/workspace/PwaAssessments/src/main/java/pt/arquivo/assessments/Assessment.java

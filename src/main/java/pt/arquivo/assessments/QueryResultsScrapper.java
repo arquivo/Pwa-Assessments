@@ -47,7 +47,7 @@ public class QueryResultsScrapper {
 	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&dateStart=01%2F01%2F1994&dateEnd=31%2F12%2F2010&query=";										
 	//private final static String URL_QUERY="http://"+DOMAIN+"/nutchwax/searchTests.jsp?summary=false&hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
 	private final static String URL_QUERY="http://"+DOMAIN+"/searchTests.jsp?summary=false&hitsPerPage="+HITS_PER_PAGE+"&hitsPerDup="+HITS_PER_DUP+"&queryMatches="+QUERY_MATCHES+"&query=";
-	private final static int NUM_FEATURES=68;
+	private final static int NUM_FEATURES=3; //TODO 68 porque ? 
 	private SqlOperations op = null;
 	private int nInserted=0;
 	private int nExcluded=0;
@@ -163,12 +163,12 @@ public class QueryResultsScrapper {
 									
 				String explainlinkHref=explainlink.attr("abs:href");	
 				int index=explainlinkHref.indexOf("&sfunctions");										
+				System.out.println( "allFunctions = " + allFunctions + " sboosts = " + allBoosts );
 				explainlinkHref=explainlinkHref.substring(0,index)+"&sfunctions="+allFunctions+"&sboosts="+allBoosts; // get all scores of all features															
 				//TODO Erro no explanlinkHerf!!!!
-				
+				System.out.println( "explainlink connect = " + explainlinkHref );
 				// connect to explain.jsp and collect feature values
 				Document docExplain = Jsoup.connect(explainlinkHref).timeout(TIMEOUT).get(); 	
-				System.out.println( "explainlink connect = " + explainlinkHref );
 				Element lexplain = docExplain.select("span[class=features]").first();
 				String lExplainFeatures = lexplain.text(); // extract features										
 				System.out.println( " lExplainFeatures = " + lExplainFeatures );			
@@ -264,7 +264,8 @@ public class QueryResultsScrapper {
 		*/
 		
 		int qid=op.selectQueryId(query,queryType);
-		if (qid==-1) {	
+		if (qid==-1) {
+			System.out.println( "1 -> topicNumber["+topicNumber+"] query["+query+"] periodStart["+periodStart+"] periodEnd["+periodEnd+"] description["+description+"] queryType["+queryType+"]" );
 			op.insertQuery(topicNumber,query,periodStart,periodEnd,description,queryType);
 		} else if (qid!=topicNumber) { // sanity check
 			throw new IOException("Same query, but with a different topic number: "+qid+" != "+topicNumber);
@@ -274,6 +275,7 @@ public class QueryResultsScrapper {
 		//int docid=op.selectDocId(url,new Timestamp(date.getTime()));   this fails because when I extract all versions I give the same URL as the first version and they can differ due to alias (e.g index.html)
 		int docid=op.selectDocIdPerCode(docCode);
 		if (docid==-1) {
+			System.out.println( "2 docid["+docid+"] timstamp["+new Timestamp(date.getTime())+"] urlArchived["+urlArchived+"] docCode["+docCode+"]" );
 			docid=op.selectDocMax()+1;	
 			op.insertDoc(docid,url,new Timestamp(date.getTime()),urlArchived,docCode);			
 		}
@@ -281,6 +283,7 @@ public class QueryResultsScrapper {
 		int qiddocid=op.selectQueryDocId(topicNumber,docid);
 		if (qiddocid==-1) {
 			qiddocid=op.selectQueryDocMax()+1;	
+			System.out.println( "3 qiddocid["+qiddocid+"] topicNumber["+topicNumber+"] docid["+docid+"] features["+features+"]" );
 			op.insertQueryDoc(qiddocid,topicNumber,docid,features);
 			nInserted++;
 		}	

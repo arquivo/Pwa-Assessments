@@ -29,7 +29,7 @@
 <body>
 
 <%
-String userid = Assessment.GROUND_TRUTH_USER;
+String userid = request.getRemoteUser(); //Assessment.GROUND_TRUTH_USER; //?????
 
 String database=getServletConfig().getInitParameter("database");
 String username=getServletConfig().getInitParameter("username");
@@ -45,11 +45,15 @@ if (action!=null && action.equals(SAVE)) {
 	int pastRelevance = Integer.parseInt(request.getParameter("pastRelevance"));
 	
 	if (pastRelevance==-2) { // not exist		
+		System.out.println( "[consensus][insert] Save relevancia["+relevance+"] querydocid["+querydocid+"] userid["+userid+"]" );
 		op.insertAssessment(querydocid, userid, relevance, null, 0);
 	}
 	else {
+		System.out.println( "[consensus][update] Save relevancia["+relevance+"] querydocid["+querydocid+"] userid["+userid+"]" );
 		op.updateAssessment(relevance, querydocid, userid);
 	}
+} else {
+	System.out.println( "[consensus] Not save!" );
 }
 
 ResultSet results=op.selectQueryAssessmentsDivergent();

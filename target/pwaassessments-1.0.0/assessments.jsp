@@ -55,13 +55,17 @@ if (action!=null && action.equals(SAVE)) {
 	if ( comments != null ) {
 		comments=new String( comments.getBytes( "iso-8859-1" ) ,"UTF-8" );
 	}
-	
+	System.out.println( "Insert Assessment ["+Integer.parseInt(querydocid)+"] ["+userid+"] ["+Integer.parseInt(relevance)+"] ["+comments+"] " );
 	op.insertAssessment(Integer.parseInt(querydocid), userid, Integer.parseInt(relevance), comments, 0);			
-
+	System.out.println( " -> selectQueryAssessmentsCount" );
 	int nAssessments=op.selectQueryAssessmentsCount();
+	System.out.println( " -> nAssessments["+nAssessments+"] selectQueryDocCount" );
 	int nAssessmentsRemaining=op.selectQueryDocCount()*MAX_ASSESSMENTS_PER_QUERYDOC - nAssessments;
+	System.out.println( " -> nAssessmentsRemaining["+nAssessmentsRemaining+"] selectQueryAssessmentsUserCount " );
 	nAssessmentsUser=op.selectQueryAssessmentsUserCount(userid);
+	System.out.println( " -> nAssessmentsUser["+nAssessmentsUser+"] selectQueryAssessmentsRemainingUserCount  userid["+userid+"] MAX_ASSESSMENTS_PER_QUERYDOC["+MAX_ASSESSMENTS_PER_QUERYDOC+"]" );
 	int nAssessmentsRemainingUser=op.selectQueryAssessmentsRemainingUserCount(userid,MAX_ASSESSMENTS_PER_QUERYDOC);
+	System.out.println( " -> nAssessmentsRemainingUser["+nAssessmentsRemainingUser+"]  " );
 	//int nAssessmentsRemaining=op.selectQueryAssessmentsRemainingCount(MAX_ASSESSMENTS_PER_QUERYDOC);	
 %>
 	<form name="form2" action="assessments" method="POST">

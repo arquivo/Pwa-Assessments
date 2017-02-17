@@ -15,17 +15,17 @@ create table queries
       type INTEGER REFERENCES queryTypes (id),
       PRIMARY KEY (id),
       UNIQUE (query, type));
-      
+
 create table docs
      (id INTEGER,
       url VARCHAR(500) NOT NULL,
       date TIMESTAMP NOT NULL,
       urlarchived VARCHAR(600) NOT NULL,
-      code VARCHAR(100) NOT NULL, -- document identifier
+      code VARCHAR(10000) NOT NULL, -- document identifier
       PRIMARY KEY (id),
       UNIQUE (code));
 --      UNIQUE (url, date));
-                        
+
 create table queriesdocs
     (id INTEGER,
      query INTEGER REFERENCES queries (id),
@@ -33,7 +33,7 @@ create table queriesdocs
 	 features VARCHAR(1000) NOT NULL,	 
 	 PRIMARY KEY (id),
 	 UNIQUE (query, doc));
-                        
+
 create table assessments
     (querydoc INTEGER REFERENCES queriesdocs (id),	
 	 userid VARCHAR(100) NOT NULL,
@@ -43,7 +43,6 @@ create table assessments
 	 type INTEGER NOT NULL, -- 0 is manual; 1 is automatic
 	 PRIMARY KEY (querydoc, userId));	
 
-	 
 
 -- delete from assessments;
 -- delete from queriesdocs;

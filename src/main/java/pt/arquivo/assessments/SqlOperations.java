@@ -20,7 +20,7 @@ public class SqlOperations {
 	  private final static String SQL_QUERY_DOC_ID_PER_CODE="select id from docs where code=?";
 
 	  private final static String SQL_QUERY_QUERYDOC_ID="select id from queriesdocs where query=? and doc=?";	  
-	 /* private final static String SQL_QUERY_QUERYDOC_WITH_LESS_ASSESSMENTS=
+	  private final static String SQL_QUERY_QUERYDOC_WITH_LESS_ASSESSMENTS=
 	      "select qd.id, qd.query, qd.doc, q.query, q.description, q.periodstart, q.periodend, d.url, d.urlarchived, d.date, count(*) as c "+
 	      "from queriesdocs qd LEFT OUTER JOIN assessments a ON (qd.id=a.querydoc), queries q, docs d "+
 	      "where qd.query=q.id and qd.doc=d.id "+
@@ -28,15 +28,15 @@ public class SqlOperations {
 	      "having qd.id NOT IN (select querydoc from assessments where userid = ? OR userid ='groundtruth') and count(*) < ? "+
 	      "order by c asc "+
 	      "limit 1 "+
-	      "offset ?";*/	  
-	  private final static String SQL_QUERY_QUERYDOC_WITH_LESS_ASSESSMENTS=
+	      "offset ?"; 
+	  /*private final static String SQL_QUERY_QUERYDOC_WITH_LESS_ASSESSMENTS=
 		      "select qd.id, qd.query, qd.doc, q.query, q.description, q.periodstart, q.periodend, d.url, d.urlarchived, d.date, count(*) as c "+
 		      "from queriesdocs qd LEFT OUTER JOIN assessments a ON (qd.id=a.querydoc), queries q, docs d "+
 		      "where qd.query=q.id and qd.doc=d.id "+
 		      "group by qd.id, qd.query, qd.doc, q.query, q.description, q.periodstart, q.periodend, d.url, d.urlarchived, d.date "+
 		      "order by c asc "+
 		      "limit 1 "+
-		      "offset ?";
+		      "offset ?";*/
 	  private final static String SQL_QUERY_QUERYDOC_FEATURES="select features from queriesdocs where id=?";
 	  
 	  private final static String SQL_QUERY_ASSESSMENTS_REMAINING_COUNT=
@@ -121,8 +121,11 @@ public class SqlOperations {
 	  private final static String SQL_INSERT_ASSESSMENT="insert into assessments (querydoc,userid,rate,comment,creationtime,type) values (?,?,?,?,current_timestamp,?)";
 	  
 	  private final static String SQL_UPDATE_ASSESSMENT="update assessments set rate=? where querydoc=? and userid=?";
-	 	  
-	  	  	 
+	 
+	  private final static String SQL_QUERY_All_DOCS = "select id,url,date,urlarchived,code from docs where  urlarchived ilike '%p15%'";
+	  
+	  private final static String SQL_UPDATE_DOCS = "update docs set urlarchived = ? , code = ? where id = ?";
+	  
 	  private Connection        db;        // A connection to the database
 	  private DatabaseMetaData  dbmd;      //
 	                    
@@ -158,6 +161,8 @@ public class SqlOperations {
 	  private PreparedStatement psQueryAssessmentsQuerydocRate;
 	  private PreparedStatement psQueryAssessmentsDivergent;
 	  
+	  private PreparedStatement psQueryGetDocs;
+	  private PreparedStatement psUpdateDocs;
 	 
 	  /**
 	   * Connect to database
@@ -230,6 +235,9 @@ public class SqlOperations {
 		  
 		  psQueryAssessmentsQuerydocRate = db.prepareStatement(SQL_QUERY_ASSESSMENTS_PER_QUERYDOC_RATE);
 		  psQueryAssessmentsDivergent = db.prepareStatement(SQL_QUERY_ASSESSMENTS_DIVERGENT);		  
+		  
+		  psQueryGetDocs = db.prepareStatement( SQL_QUERY_All_DOCS );
+		  psUpdateDocs = db.prepareStatement( SQL_UPDATE_DOCS );
 	  }
 	  
 	  /**
@@ -264,17 +272,45 @@ public class SqlOperations {
 		  psQueryAssessmentsDivergent.close();
 		  psQueryDocMax.close();
 		  psQueryQueryDocMax.close();
+		  psQueryGetDocs.close( );
+		  psUpdateDocs.close( );
 		  db.commit();
 		  db.close();
 	  }
 	  
+	  /**
+	   * Query query 
+	   * @return query object
+	   * @throws SQLException
+	   */
+	  public Vector< Doc > selectDocs( ) throws SQLException {			  		  
+		  ResultSet results = psQueryGetDocs.executeQuery( );	
+		  Vector<Doc> queries=new Vector<Doc>();		  
+		  if (results!=null) { 
+			  while (results.next()) {
+				  queries.add( new Doc( results.getLong( 1 ) , results.getString( 2 ) , results.getTimestamp( 3 ) , results.getString( 4 ) , results.getString( 5 ) ));
+			  }
+			  results.close();  		      
+		  } 		  			  							  		  
+		  return queries;			
+	  }
+	  
+	  public void updateDocs( String urlarchived , String code , long id ) throws SQLException {
+		  psUpdateDocs.setString( 1 , urlarchived );
+		  psUpdateDocs.setString( 2 , code );
+		  psUpdateDocs.setLong( 3 , id );
+		  int res = psUpdateDocs.executeUpdate();		  		  
+		  if ( res == 0 ) {
+			  throw new SQLException( "document[" + id + "] updating faild!" );		      
+		  } 
+	  }
 	  
 	  /**
 	   * Query query id
 	   * @return id if exists; -1 otherwise
 	   * @throws SQLException
 	   */
-	  public int selectQueryId(String query, int queryType) throws SQLException {	
+	  public int selectQueryId( String query , int queryType ) throws SQLException {	
 		  psQueryQueryId.setString(1,query);		 
 		  psQueryQueryId.setInt(2,queryType);
 		  
@@ -372,9 +408,9 @@ public class SqlOperations {
 	   */
       public QueryDoc selectQueryDocWithLessAssessments(String userId, int maxAssessments, int offset) throws SQLException {	
     	  System.out.println( "Query before " + psQueryQueryDocWithLessAssessments.toString( ) );
-    	 // psQueryQueryDocWithLessAssessments.setString(1,userId);		 
-		  //psQueryQueryDocWithLessAssessments.setInt(2,maxAssessments);
-		  psQueryQueryDocWithLessAssessments.setInt(1,offset);
+    	  psQueryQueryDocWithLessAssessments.setString(1,userId);		 
+		  psQueryQueryDocWithLessAssessments.setInt(2,maxAssessments);
+		  psQueryQueryDocWithLessAssessments.setInt(3,offset);
 		  System.out.println( "Query after " + psQueryQueryDocWithLessAssessments.toString( ) );
 		  QueryDoc ret=null;
 		  try{

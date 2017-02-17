@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <topics>
-	<topic number="1" type="navigational">
+	<topic number="51" type="navigational">
 		<query>Antonio Costa</query>
 		<description lang="en">
 			The politician António Costa.
@@ -9,7 +9,7 @@
 			O político António Costa.
 		</description>
 	</topic>
-	<topic number="2" type="navigational">
+	<topic number="52" type="navigational">
 		<query>Eça de Queiros</query>
 		<description lang="en">
 			Writer Eça de Queiros.
@@ -18,7 +18,7 @@
 			Esscritor Eça de Queiros.
 		</description>
 	</topic>
-	<topic number="3" type="navigational">
+	<topic number="53" type="navigational">
 		<query>Bocage</query>
 		<period />
 		<description lang="en">
@@ -28,7 +28,7 @@
 			Escritor Bocage.
 		</description>
 	</topic>
-	<topic number="4" type="navigational">
+	<topic number="54" type="navigational">
 		<query>Eusébio</query>
 		<period />
 		<description lang="en">
@@ -38,7 +38,7 @@
 			Futebolista Eusébio.
 		</description>
 	</topic>
-	<topic number="5" type="navigational">
+	<topic number="55" type="navigational">
 		<query>Almeida Garret</query>
 		<period />
 		<description lang="en">
@@ -48,7 +48,7 @@
 			Escritor, dramaturgo, poeta, político Almeida Garret.
 		</description>
 	</topic>
-	<topic number="6" type="navigational">
+	<topic number="56" type="navigational">
 		<query>Vasco Santana</query>
 		<period />
 		<description lang="en">			
@@ -58,7 +58,7 @@
 			Ator, escritor Vasco Santana.
 		</description>
 	</topic>
-	<topic number="7" type="navigational">
+	<topic number="57" type="navigational">
 		<query>Zeca Afonso</query>
 		<period />
 		<description lang="en">
@@ -68,7 +68,7 @@
 			Musico José Afonso.
 		</description>
 	</topic>
-	<topic number="8" type="navigational">
+	<topic number="58" type="navigational">
 		<query>Nélson Évora</query>
 		<period>
 			<start format="dd/mm/yyyy">01/01/2005</start>
