@@ -14,7 +14,7 @@ The objective of the project is to create a platform to evaluate the ranking of 
 
 ![Diagram ER database](https://github.com/arquivo/Pwa-Assessments/blob/master/diagramER-PWAassessments.png)
 
-##Importing new documents/searches
+##Importing new documents/queries
 
 To import new querys/documents for evaluation there is the class _QueryResultsScrapper_.
 
