@@ -1,20 +1,20 @@
-#PWA Assessments
+# PWA Assessments
 
 Code available in maven project [PWA assessments](https://github.com/arquivo/Pwa-Assessments). Project to evaluate the relevance of the results in the archive.
 The objective of the project is to create a platform to evaluate the ranking of [arquivo.pt](http://arquivo.pt), for this a web page, assessments, was created where the user evaluates the returned document for a given search. In order to assist the process, two web pages were created, consensus and review, the first to change some evaluation already done, the second to review the evaluations made.
 
-##Web Pages
+## Web Pages
 
 * `Assessments`: interface responsible for user evaluation, needs authentication.
 * `Consensus`: view used to update the relevance value given in evaluations. From a scale of -1 to 2, where 0 is Do not know and 2 is Very Relevant, needs authentication.
 * `Review`: lists document evaluations per survey, requires authentication.
 * `Login`: Access is restricted by the Apache Tomcat server, a configuration rule with its rule is created for each user.
 
-##Database
+## Database
 
 ![Diagram ER database](https://github.com/arquivo/Pwa-Assessments/blob/master/diagramER-PWAassessments.png)
 
-##Importing new documents/queries
+## Importing new documents/queries
 
 To import new querys/documents for evaluation there is the class _QueryResultsScrapper_.
 
@@ -37,7 +37,7 @@ Example of invocation:
 
 This class will perform each search found in the input file by going to Search Tests, described in this document, performs the scrapping technique to extract the information from the page, saving the documents obtained from the search in the table docs relating to the query table where the search is saved.
 
-##Other features
+## Other features
 * `AutomaticAssessments`: Create automatic assessments based on existing assessments for navigational queries
 * `DatasetTemporalBinaryFeatures`: Add binary features (relevant or not-relevant)
 * `DataTemporalMultiplier`: Multiply features of datasets according the timestamp of a version
